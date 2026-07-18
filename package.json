@@ -1,0 +1,15 @@
+{
+  "name": "awesome-grok-imagine-image-prompts-and-skills",
+  "version": "1.0.0",
+  "private": false,
+  "description": "Source-backed Grok Imagine Image prompts and production workflows curated by ImagineVid",
+  "type": "module",
+  "scripts": {
+    "generate": "node scripts/generate-readme.mjs",
+    "validate": "node scripts/validate-data.mjs",
+    "test": "npm run validate",
+    "typecheck": "node --check scripts/*.mjs",
+    "verify": "npm run generate && npm run validate && npm run typecheck"
+  },
+  "license": "CC-BY-4.0"
+}

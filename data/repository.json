@@ -1,0 +1,26 @@
+{
+  "dir": "awesome-grok-imagine-image-prompts-and-skills",
+  "repo": "Awesome-grok-imagine-image-prompts-and-skills",
+  "model": "Grok Imagine Image",
+  "kind": "image",
+  "product": "https://imaginevid.io/grok-image",
+  "cover": "grok-imagine-image-cover.png",
+  "intro": "Grok Imagine Image is xAI's image-generation and image-editing model. Useful prompts make composition, subject identity, lighting, typography, surface treatment, and edit boundaries explicit, while keeping the requested transformation easy to evaluate against the source image.",
+  "capabilities": [
+    "Text-to-image composition with explicit framing and lighting",
+    "Image transformation while preserving pose, identity, or background",
+    "Product photography with controllable materials and camera language",
+    "Stylized rendering that separates structure from surface treatment"
+  ],
+  "officialSources": [
+    "https://docs.x.ai/developers/models/grok-imagine-image",
+    "https://docs.x.ai/grok/overview"
+  ],
+  "categories": [
+    "Portrait & Character Design",
+    "Product Photography",
+    "Split-Style Transformations",
+    "Fantasy & Worldbuilding",
+    "Editorial Composition"
+  ]
+}

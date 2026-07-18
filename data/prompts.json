@@ -1,0 +1,206 @@
+[
+  {
+    "id": 1,
+    "model": "Grok Imagine Image",
+    "title": "Realistic-to-cartoon split portrait",
+    "description": "A controlled split treatment that preserves pose and background while changing rendering language.",
+    "content": "Split-style image with the subject divided vertically. LEFT: realistic photo with natural light, clear details, slight enhancement, and subtle doodle outlines. RIGHT: stylized cartoon version, same pose and expression, clean lineart, soft shading, vibrant or pastel colors, with small decorative doodles. Keep original background. Add a torn or glitch split. Modern, soft lighting, aesthetic, ultra-detailed.",
+    "sourceLink": "https://x.com/Goodmanprotocol/status/2040110800212500811",
+    "sourcePublishedAt": "2026-04-03T16:54:52.000Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/media/HE_t9Yva4AAqDPd.jpg",
+      "https://pbs.twimg.com/media/HE_t9dDbUAA6WPX.jpg",
+      "https://pbs.twimg.com/media/HE_t9e1bYAAiByE.jpg",
+      "https://pbs.twimg.com/media/HE_t9g4bMAASm5y.jpg"
+    ],
+    "author": {
+      "name": "@Goodmanprotocol",
+      "link": "https://x.com/Goodmanprotocol"
+    },
+    "language": "en",
+    "featured": true,
+    "sort": 1,
+    "needReferenceImages": false,
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2040110800212500811",
+      "prompt_source": "tweet_text_prompt",
+      "model_evidence": "grok-imagine-image",
+      "likeCount": 301,
+      "bookmarkCount": 214,
+      "viewCount": 19782,
+      "curatedAt": "2026-07-18",
+      "curation_note": "Included after checking explicit model attribution, reusable prompt text, canonical authorship, inspectable result media, and duplicate status."
+    },
+    "imageCategories": {
+      "workflows": [
+        {
+          "id": 101,
+          "title": "Portrait & Character Design",
+          "slug": "portrait-and-character-design"
+        }
+      ]
+    }
+  },
+  {
+    "id": 2,
+    "model": "Grok Imagine Image",
+    "title": "Moonlit silver forest spirit",
+    "description": "A detailed fantasy portrait balancing material texture, bioluminescence, and restrained color.",
+    "content": "Hyper-detailed photorealistic cinematic side profile of a graceful forest spirit standing in a mystical glowing forest at night. She has long flowing dark hair with glowing silver and black flowers and delicate silver vines. Her skin has subtle bark-like texture with intricate glowing silver and black patterns across her face, neck, and shoulders. She wears a flowing ethereal dress made of layered translucent dark leaves and glowing silver vines. She stands with an elegant, mysterious expression, one hand gently extended with small glowing silver particles floating around it. Soft volumetric moonlight and bioluminescent plants create beautiful deep black and silver lighting with gentle god rays. Ultra-realistic textures on skin with glowing patterns, individual leaves, flower petals, glowing vines, hair, and fabric-like textures. Strong intricate details, magical cinematic lighting, and dark elegant atmosphere. Masterpiece, best quality, 8K resolution, cinematic composition, shallow depth of field",
+    "sourceLink": "https://x.com/Kisalay_/status/2069306961917833499",
+    "sourcePublishedAt": "2026-06-23T06:30:00.000Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/media/HLd36H2bgAA5Yvq.jpg"
+    ],
+    "author": {
+      "name": "@Kisalay_",
+      "link": "https://x.com/Kisalay_"
+    },
+    "language": "en",
+    "featured": true,
+    "sort": 2,
+    "needReferenceImages": false,
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2069306961917833499",
+      "prompt_source": "tweet_text_prompt",
+      "model_evidence": "grok-imagine-image",
+      "likeCount": 20,
+      "bookmarkCount": 1,
+      "viewCount": 288,
+      "curatedAt": "2026-07-18",
+      "curation_note": "Included after checking explicit model attribution, reusable prompt text, canonical authorship, inspectable result media, and duplicate status."
+    },
+    "imageCategories": {
+      "workflows": [
+        {
+          "id": 102,
+          "title": "Product Photography",
+          "slug": "product-photography"
+        }
+      ]
+    }
+  },
+  {
+    "id": 3,
+    "model": "Grok Imagine Image",
+    "title": "Fully directed cinematic character frame",
+    "description": "A long-form image brief that demonstrates control over composition, lighting, wardrobe, and atmosphere.",
+    "content": "Try this Grok Imagine image prompt. Notice how Imagine gives you complete control over every aspect of your generations.\n\nlong-click this image to generate a video in Grok Imagine.\n\n>>>\n\nA beautiful woman with a face resembling Motoko Kusanagi from Ghost in the Shell, featuring a short sleek full volume bob haircut falling just above the shoulders, straight bangs framing the face, subtle layering for a sharp professional look, asymmetrical split bob with the left side longer, hair in a colorful pastel gradient primarily white fading into streaks of yellow, red, and black; pale porcelain skin, piercing yellow eyes with black eyeliner, black spade symbol on right cheek, black teardrop mark under left eye, glossy yellow lips with a subtle smirk; wearing a shiny yellow cape draped over shoulders, black form-fitting sleeveless top with yellow trim, black choker with yellow accents, black arm gloves. \n\nThe style is an anime-inspired digital painting with hyper-realistic rendering, smooth gradients, and sharp details, embodying a cyberpunk fantasy vibe. \n\nThe environment is a solid golden-yellow gradient background with no additional elements. \n\nLighting features dramatic side lighting from the left, creating soft highlights on the face and hair, deep shadows on the right side for high contrast, and a subtle rim light outlining the figure. \n\nThe composition is a close-up portrait from the shoulders up, with the subject turned slightly to the right looking over the shoulder at the viewer, centered with balanced negative space. \n\nThe color palette includes vibrant golden yellow as the dominant color, deep navy black, crimson red accents, pale white skin tones, and cool monochrome shadows. \n\nThe camera uses a vertical portrait orientation, medium shot, with a shallow depth of field focusing on the face and crisp foreground details. The mood is enigmatic, seductive, playful yet intense. \n\nDetails include a glossy sheen on hair and clothing, reflective highlights in the eyes, smooth porcelain texture on the skin, subtle airbrush blending, and faint chromatic aberration edges. \n\nThe output quality is ultra-high resolution, 8k, with sharp focus, a clean render, subtle grain, and bloom effects.",
+    "sourceLink": "https://x.com/tetsuoai/status/1990288045531340840",
+    "sourcePublishedAt": "2025-11-17T05:17:02.000Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/media/G57sbclbEAAYwjm.jpg"
+    ],
+    "author": {
+      "name": "@tetsuoai",
+      "link": "https://x.com/tetsuoai"
+    },
+    "language": "en",
+    "featured": false,
+    "sort": 3,
+    "needReferenceImages": false,
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "1990288045531340840",
+      "prompt_source": "tweet_text_prompt",
+      "model_evidence": "grok-imagine-image",
+      "likeCount": 323,
+      "bookmarkCount": 82,
+      "viewCount": 29363,
+      "curatedAt": "2026-07-18",
+      "curation_note": "Included after checking explicit model attribution, reusable prompt text, canonical authorship, inspectable result media, and duplicate status."
+    },
+    "imageCategories": {
+      "workflows": [
+        {
+          "id": 103,
+          "title": "Split-Style Transformations",
+          "slug": "split-style-transformations"
+        }
+      ]
+    }
+  },
+  {
+    "id": 4,
+    "model": "Grok Imagine Image",
+    "title": "White-haired figure on a gothic throne",
+    "description": "A concise character prompt with a strong throne silhouette and gothic environment.",
+    "content": "A young woman with white hair sits on a gothic throne in outer space, surrounded by a nebula, in a surreal sci-fi style.",
+    "sourceLink": "https://x.com/tetsuoai/status/1990144761416872008",
+    "sourcePublishedAt": "2025-11-16T19:47:40.000Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/media/G55qHRwbIAAzeZT.jpg"
+    ],
+    "author": {
+      "name": "@tetsuoai",
+      "link": "https://x.com/tetsuoai"
+    },
+    "language": "en",
+    "featured": false,
+    "sort": 4,
+    "needReferenceImages": false,
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "1990144761416872008",
+      "prompt_source": "tweet_text_prompt",
+      "model_evidence": "grok-imagine-image",
+      "likeCount": 290,
+      "bookmarkCount": 38,
+      "viewCount": 16490,
+      "curatedAt": "2026-07-18",
+      "curation_note": "Included after checking explicit model attribution, reusable prompt text, canonical authorship, inspectable result media, and duplicate status."
+    },
+    "imageCategories": {
+      "workflows": [
+        {
+          "id": 104,
+          "title": "Fantasy & Worldbuilding",
+          "slug": "fantasy-and-worldbuilding"
+        }
+      ]
+    }
+  },
+  {
+    "id": 5,
+    "model": "Grok Imagine Image",
+    "title": "Low-angle black perfume campaign",
+    "description": "A product-photography brief using low camera placement, ribbed glass, dark materials, and premium lighting.",
+    "content": "Low angle luxury product photography of a black ribbed glass perfume bottle placed on a dark horizontal podium, shot from below for a heroic, monumental feel. The bottle is Tom Ford Black Orchid, matte black texture clearly visible.\nDramatic low key studio lighting. Soft diffused key light from above and slightly left, gently lighting the label and top, revealing volume and texture. Strong hard red rim light from behind and right, creating a bold red outline along the edge and cap, with a subtle red glow bleeding into the background.\nDeep soft shadows with smooth falloff. Slightly underexposed for drama. High contrast between highlights and shadows while keeping transitions soft.\nColor palette limited to deep black and rich burgundy red, warm color balance, black remains neutral and clean.\nMatte surface shows soft red reflections, not glossy, giving depth and form.\nMinimal background, dark red gradient, cinematic mood, luxury fragrance advertising style, photorealistic, ultra high detail, studio quality.",
+    "sourceLink": "https://x.com/harboriis/status/2018312144358703594",
+    "sourcePublishedAt": "2026-02-02T13:14:48.000Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/media/HAJ8IfRa8AA6YR2.jpg",
+      "https://pbs.twimg.com/ext_tw_video_thumb/2018312060002783232/pu/img/2H82nhf6Dm3AT_40.jpg"
+    ],
+    "author": {
+      "name": "@harboriis",
+      "link": "https://x.com/harboriis"
+    },
+    "language": "en",
+    "featured": false,
+    "sort": 5,
+    "needReferenceImages": false,
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2018312144358703594",
+      "prompt_source": "tweet_text_prompt",
+      "model_evidence": "grok-imagine-image",
+      "likeCount": 229,
+      "bookmarkCount": 140,
+      "viewCount": 10002,
+      "curatedAt": "2026-07-18",
+      "curation_note": "Included after checking explicit model attribution, reusable prompt text, canonical authorship, inspectable result media, and duplicate status."
+    },
+    "imageCategories": {
+      "workflows": [
+        {
+          "id": 105,
+          "title": "Editorial Composition",
+          "slug": "editorial-composition"
+        }
+      ]
+    }
+  }
+]

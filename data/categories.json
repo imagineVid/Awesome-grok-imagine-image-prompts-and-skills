@@ -1,0 +1,37 @@
+[
+  {
+    "id": 101,
+    "title": "Portrait & Character Design",
+    "slug": "portrait-and-character-design",
+    "parentSlug": "image-workflow-groups",
+    "sort": 1
+  },
+  {
+    "id": 102,
+    "title": "Product Photography",
+    "slug": "product-photography",
+    "parentSlug": "image-workflow-groups",
+    "sort": 2
+  },
+  {
+    "id": 103,
+    "title": "Split-Style Transformations",
+    "slug": "split-style-transformations",
+    "parentSlug": "image-workflow-groups",
+    "sort": 3
+  },
+  {
+    "id": 104,
+    "title": "Fantasy & Worldbuilding",
+    "slug": "fantasy-and-worldbuilding",
+    "parentSlug": "image-workflow-groups",
+    "sort": 4
+  },
+  {
+    "id": 105,
+    "title": "Editorial Composition",
+    "slug": "editorial-composition",
+    "parentSlug": "image-workflow-groups",
+    "sort": 5
+  }
+]
