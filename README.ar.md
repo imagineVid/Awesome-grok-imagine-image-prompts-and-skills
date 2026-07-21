@@ -47,9 +47,9 @@ Grok Imagine Image نموذج مخصص لـإنشاء الصور وتحريره�
 
 ## حالات مجتمعية موثقة
 
-| حالة المجموعة | 10 حالات موثقة |
+| حالة المجموعة | 12 حالات موثقة |
 |---|---:|
-| آخر إنشاء | 2026-07-18 |
+| آخر إنشاء | 2026-07-19 |
 
 ### 1. Realistic-to-cartoon split portrait
 
@@ -73,7 +73,7 @@ Split-style image with the subject divided vertically. LEFT: realistic photo wit
 - **المبدع:** [@Goodmanprotocol](https://x.com/Goodmanprotocol)
 - **المنشور الأصلي:** [X / Twitter](https://x.com/Goodmanprotocol/status/2040110800212500811)
 - **تاريخ النشر:** 2026-04-03
-- **Category:** Portrait & Character Design
+- **الفئة:** Portrait & Character Design
 
 **[استخدم المطالبة على ImagineVid](https://imaginevid.io/grok-image)**
 
@@ -98,7 +98,7 @@ Hyper-detailed photorealistic cinematic side profile of a graceful forest spirit
 - **المبدع:** [@Kisalay_](https://x.com/Kisalay_)
 - **المنشور الأصلي:** [X / Twitter](https://x.com/Kisalay_/status/2069306961917833499)
 - **تاريخ النشر:** 2026-06-23
-- **Category:** Product Photography
+- **الفئة:** Product Photography
 
 **[استخدم المطالبة على ImagineVid](https://imaginevid.io/grok-image)**
 
@@ -145,7 +145,7 @@ The output quality is ultra-high resolution, 8k, with sharp focus, a clean rende
 - **المبدع:** [@tetsuoai](https://x.com/tetsuoai)
 - **المنشور الأصلي:** [X / Twitter](https://x.com/tetsuoai/status/1990288045531340840)
 - **تاريخ النشر:** 2025-11-17
-- **Category:** Split-Style Transformations
+- **الفئة:** Split-Style Transformations
 
 **[استخدم المطالبة على ImagineVid](https://imaginevid.io/grok-image)**
 
@@ -170,7 +170,7 @@ A young woman with white hair sits on a gothic throne in outer space, surrounded
 - **المبدع:** [@tetsuoai](https://x.com/tetsuoai)
 - **المنشور الأصلي:** [X / Twitter](https://x.com/tetsuoai/status/1990144761416872008)
 - **تاريخ النشر:** 2025-11-16
-- **Category:** Fantasy & Worldbuilding
+- **الفئة:** Fantasy & Worldbuilding
 
 **[استخدم المطالبة على ImagineVid](https://imaginevid.io/grok-image)**
 
@@ -201,7 +201,7 @@ Minimal background, dark red gradient, cinematic mood, luxury fragrance advertis
 - **المبدع:** [@harboriis](https://x.com/harboriis)
 - **المنشور الأصلي:** [X / Twitter](https://x.com/harboriis/status/2018312144358703594)
 - **تاريخ النشر:** 2026-02-02
-- **Category:** Editorial Composition
+- **الفئة:** Editorial Composition
 
 **[استخدم المطالبة على ImagineVid](https://imaginevid.io/grok-image)**
 
@@ -230,7 +230,7 @@ Hyper-detailed photorealistic cinematic three-quarter front view of a graceful f
 - **المبدع:** [@Kisalay_](https://x.com/Kisalay_)
 - **المنشور الأصلي:** [X / Twitter](https://x.com/Kisalay_/status/2068899277598830923)
 - **تاريخ النشر:** 2026-06-22
-- **Category:** Fantasy & Worldbuilding
+- **الفئة:** Fantasy & Worldbuilding
 
 **[استخدم المطالبة على ImagineVid](https://imaginevid.io/grok-image)**
 
@@ -255,7 +255,7 @@ A preservation-sensitive edit that improves exposure, texture, and detail while 
 - **المبدع:** [@asheem01](https://x.com/asheem01)
 - **المنشور الأصلي:** [X / Twitter](https://x.com/asheem01/status/2064686648051270055)
 - **تاريخ النشر:** 2026-06-10
-- **Category:** Portrait & Character Design
+- **الفئة:** Portrait & Character Design
 
 **[استخدم المطالبة على ImagineVid](https://imaginevid.io/grok-image)**
 
@@ -280,7 +280,7 @@ This is a weekly chart of $BTC. Can you please add another 1 year (52 weeks) to 
 - **المبدع:** [@Arlo_the_Intern](https://x.com/Arlo_the_Intern)
 - **المنشور الأصلي:** [X / Twitter](https://x.com/Arlo_the_Intern/status/2062651827154538962)
 - **تاريخ النشر:** 2026-06-04
-- **Category:** Editorial Composition
+- **الفئة:** Editorial Composition
 
 **[استخدم المطالبة على ImagineVid](https://imaginevid.io/grok-image)**
 
@@ -306,7 +306,7 @@ Enhance the color balance and exposure, and add HDR where needed. Do not alter t
 - **المبدع:** [@stevecrye](https://x.com/stevecrye)
 - **المنشور الأصلي:** [X / Twitter](https://x.com/stevecrye/status/2050019565778722921)
 - **تاريخ النشر:** 2026-05-01
-- **Category:** Split-Style Transformations
+- **الفئة:** Split-Style Transformations
 
 **[استخدم المطالبة على ImagineVid](https://imaginevid.io/grok-image)**
 
@@ -333,7 +333,58 @@ Mood: warm, joyful, simple domestic bliss. Soft watercolor washes, visible brush
 - **المبدع:** [@DavidLi36143625](https://x.com/DavidLi36143625)
 - **المنشور الأصلي:** [X / Twitter](https://x.com/DavidLi36143625/status/2052139222572949974)
 - **تاريخ النشر:** 2026-05-06
-- **Category:** Editorial Composition
+- **الفئة:** Editorial Composition
+
+**[استخدم المطالبة على ImagineVid](https://imaginevid.io/grok-image)**
+
+---
+
+### 11. Single mekugi correction on a katana handle
+
+A surgical two-reference product edit that preserves the diagonal shirasaya composition while changing only one construction detail on the handle.
+
+#### المطالبة
+
+```text
+Keep the first image's diagonal katana shirasaya composition, white background, and plain wooden saya with no pegs. On the tsuka handle only, show a single mekugi like the second image: one dark circular pin embedded flush into the wood near the habaki. Preserve the blade angle, lighting, grain direction, proportions, and all other details exactly. Do not add a second peg or alter the saya.
+```
+
+<table><tr>
+<td width="100%"><img src="https://pbs.twimg.com/media/HNdJ6-qaEAATk7D.jpg" width="100%" alt="Single mekugi correction on a katana handle"></td>
+</tr></table>
+
+#### دليل المصدر
+
+- **المبدع:** [@sakana_no_sippo](https://x.com/sakana_no_sippo)
+- **المنشور الأصلي:** [X / Twitter](https://x.com/sakana_no_sippo/status/2078211037103616314)
+- **تاريخ النشر:** 2026-07-17
+- **الفئة:** Product Photography
+
+**[استخدم المطالبة على ImagineVid](https://imaginevid.io/grok-image)**
+
+---
+
+### 12. Atmospheric navy-lace apartment portrait
+
+A compact photoreal portrait brief centered on pose, wardrobe texture, jewelry, skin lighting, and a softly separated interior background.
+
+#### المطالبة
+
+```text
+Photorealistic high-resolution photograph of an adult Scandinavian fashion model with long blonde hair and an athletic build in a living-room apartment, looking over her shoulder in a dark navy-blue sleeveless lace gown. Add layered silver necklaces and sparkling crystal drop earrings. Use soft atmospheric lighting that shapes natural skin texture and separates the subject from a dreamy, shallow-depth-of-field interior background. Refined editorial styling, realistic anatomy, restrained color grade.
+```
+
+<table><tr>
+<td width="50%"><img src="https://pbs.twimg.com/media/HNKQfSiakAApD7M.jpg" width="100%" alt="Atmospheric navy-lace apartment portrait"></td>
+<td width="50%"><img src="https://pbs.twimg.com/media/HNKQfSlaIAAVtWb.jpg" width="100%" alt="Atmospheric navy-lace apartment portrait"></td>
+</tr></table>
+
+#### دليل المصدر
+
+- **المبدع:** [@tealdog2](https://x.com/tealdog2)
+- **المنشور الأصلي:** [X / Twitter](https://x.com/tealdog2/status/2076881249457799506)
+- **تاريخ النشر:** 2026-07-14
+- **الفئة:** Portrait & Character Design
 
 **[استخدم المطالبة على ImagineVid](https://imaginevid.io/grok-image)**
 

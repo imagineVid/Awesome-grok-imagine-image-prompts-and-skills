@@ -47,9 +47,9 @@ Grok Imagine Image — модель для генерации и точного 
 
 ## Проверенные примеры сообщества
 
-| Статус коллекции | 10 проверенных примеров |
+| Статус коллекции | 12 проверенных примеров |
 |---|---:|
-| Последняя генерация | 2026-07-18 |
+| Последняя генерация | 2026-07-19 |
 
 ### 1. Realistic-to-cartoon split portrait
 
@@ -73,7 +73,7 @@ Split-style image with the subject divided vertically. LEFT: realistic photo wit
 - **Автор:** [@Goodmanprotocol](https://x.com/Goodmanprotocol)
 - **Исходная публикация:** [X / Twitter](https://x.com/Goodmanprotocol/status/2040110800212500811)
 - **Опубликовано:** 2026-04-03
-- **Category:** Portrait & Character Design
+- **Категория:** Portrait & Character Design
 
 **[Использовать промпт в ImagineVid](https://imaginevid.io/grok-image)**
 
@@ -98,7 +98,7 @@ Hyper-detailed photorealistic cinematic side profile of a graceful forest spirit
 - **Автор:** [@Kisalay_](https://x.com/Kisalay_)
 - **Исходная публикация:** [X / Twitter](https://x.com/Kisalay_/status/2069306961917833499)
 - **Опубликовано:** 2026-06-23
-- **Category:** Product Photography
+- **Категория:** Product Photography
 
 **[Использовать промпт в ImagineVid](https://imaginevid.io/grok-image)**
 
@@ -145,7 +145,7 @@ The output quality is ultra-high resolution, 8k, with sharp focus, a clean rende
 - **Автор:** [@tetsuoai](https://x.com/tetsuoai)
 - **Исходная публикация:** [X / Twitter](https://x.com/tetsuoai/status/1990288045531340840)
 - **Опубликовано:** 2025-11-17
-- **Category:** Split-Style Transformations
+- **Категория:** Split-Style Transformations
 
 **[Использовать промпт в ImagineVid](https://imaginevid.io/grok-image)**
 
@@ -170,7 +170,7 @@ A young woman with white hair sits on a gothic throne in outer space, surrounded
 - **Автор:** [@tetsuoai](https://x.com/tetsuoai)
 - **Исходная публикация:** [X / Twitter](https://x.com/tetsuoai/status/1990144761416872008)
 - **Опубликовано:** 2025-11-16
-- **Category:** Fantasy & Worldbuilding
+- **Категория:** Fantasy & Worldbuilding
 
 **[Использовать промпт в ImagineVid](https://imaginevid.io/grok-image)**
 
@@ -201,7 +201,7 @@ Minimal background, dark red gradient, cinematic mood, luxury fragrance advertis
 - **Автор:** [@harboriis](https://x.com/harboriis)
 - **Исходная публикация:** [X / Twitter](https://x.com/harboriis/status/2018312144358703594)
 - **Опубликовано:** 2026-02-02
-- **Category:** Editorial Composition
+- **Категория:** Editorial Composition
 
 **[Использовать промпт в ImagineVid](https://imaginevid.io/grok-image)**
 
@@ -230,7 +230,7 @@ Hyper-detailed photorealistic cinematic three-quarter front view of a graceful f
 - **Автор:** [@Kisalay_](https://x.com/Kisalay_)
 - **Исходная публикация:** [X / Twitter](https://x.com/Kisalay_/status/2068899277598830923)
 - **Опубликовано:** 2026-06-22
-- **Category:** Fantasy & Worldbuilding
+- **Категория:** Fantasy & Worldbuilding
 
 **[Использовать промпт в ImagineVid](https://imaginevid.io/grok-image)**
 
@@ -255,7 +255,7 @@ A preservation-sensitive edit that improves exposure, texture, and detail while 
 - **Автор:** [@asheem01](https://x.com/asheem01)
 - **Исходная публикация:** [X / Twitter](https://x.com/asheem01/status/2064686648051270055)
 - **Опубликовано:** 2026-06-10
-- **Category:** Portrait & Character Design
+- **Категория:** Portrait & Character Design
 
 **[Использовать промпт в ImagineVid](https://imaginevid.io/grok-image)**
 
@@ -280,7 +280,7 @@ This is a weekly chart of $BTC. Can you please add another 1 year (52 weeks) to 
 - **Автор:** [@Arlo_the_Intern](https://x.com/Arlo_the_Intern)
 - **Исходная публикация:** [X / Twitter](https://x.com/Arlo_the_Intern/status/2062651827154538962)
 - **Опубликовано:** 2026-06-04
-- **Category:** Editorial Composition
+- **Категория:** Editorial Composition
 
 **[Использовать промпт в ImagineVid](https://imaginevid.io/grok-image)**
 
@@ -306,7 +306,7 @@ Enhance the color balance and exposure, and add HDR where needed. Do not alter t
 - **Автор:** [@stevecrye](https://x.com/stevecrye)
 - **Исходная публикация:** [X / Twitter](https://x.com/stevecrye/status/2050019565778722921)
 - **Опубликовано:** 2026-05-01
-- **Category:** Split-Style Transformations
+- **Категория:** Split-Style Transformations
 
 **[Использовать промпт в ImagineVid](https://imaginevid.io/grok-image)**
 
@@ -333,7 +333,58 @@ Mood: warm, joyful, simple domestic bliss. Soft watercolor washes, visible brush
 - **Автор:** [@DavidLi36143625](https://x.com/DavidLi36143625)
 - **Исходная публикация:** [X / Twitter](https://x.com/DavidLi36143625/status/2052139222572949974)
 - **Опубликовано:** 2026-05-06
-- **Category:** Editorial Composition
+- **Категория:** Editorial Composition
+
+**[Использовать промпт в ImagineVid](https://imaginevid.io/grok-image)**
+
+---
+
+### 11. Single mekugi correction on a katana handle
+
+A surgical two-reference product edit that preserves the diagonal shirasaya composition while changing only one construction detail on the handle.
+
+#### Промпт
+
+```text
+Keep the first image's diagonal katana shirasaya composition, white background, and plain wooden saya with no pegs. On the tsuka handle only, show a single mekugi like the second image: one dark circular pin embedded flush into the wood near the habaki. Preserve the blade angle, lighting, grain direction, proportions, and all other details exactly. Do not add a second peg or alter the saya.
+```
+
+<table><tr>
+<td width="100%"><img src="https://pbs.twimg.com/media/HNdJ6-qaEAATk7D.jpg" width="100%" alt="Single mekugi correction on a katana handle"></td>
+</tr></table>
+
+#### Подтверждение источника
+
+- **Автор:** [@sakana_no_sippo](https://x.com/sakana_no_sippo)
+- **Исходная публикация:** [X / Twitter](https://x.com/sakana_no_sippo/status/2078211037103616314)
+- **Опубликовано:** 2026-07-17
+- **Категория:** Product Photography
+
+**[Использовать промпт в ImagineVid](https://imaginevid.io/grok-image)**
+
+---
+
+### 12. Atmospheric navy-lace apartment portrait
+
+A compact photoreal portrait brief centered on pose, wardrobe texture, jewelry, skin lighting, and a softly separated interior background.
+
+#### Промпт
+
+```text
+Photorealistic high-resolution photograph of an adult Scandinavian fashion model with long blonde hair and an athletic build in a living-room apartment, looking over her shoulder in a dark navy-blue sleeveless lace gown. Add layered silver necklaces and sparkling crystal drop earrings. Use soft atmospheric lighting that shapes natural skin texture and separates the subject from a dreamy, shallow-depth-of-field interior background. Refined editorial styling, realistic anatomy, restrained color grade.
+```
+
+<table><tr>
+<td width="50%"><img src="https://pbs.twimg.com/media/HNKQfSiakAApD7M.jpg" width="100%" alt="Atmospheric navy-lace apartment portrait"></td>
+<td width="50%"><img src="https://pbs.twimg.com/media/HNKQfSlaIAAVtWb.jpg" width="100%" alt="Atmospheric navy-lace apartment portrait"></td>
+</tr></table>
+
+#### Подтверждение источника
+
+- **Автор:** [@tealdog2](https://x.com/tealdog2)
+- **Исходная публикация:** [X / Twitter](https://x.com/tealdog2/status/2076881249457799506)
+- **Опубликовано:** 2026-07-14
+- **Категория:** Portrait & Character Design
 
 **[Использовать промпт в ImagineVid](https://imaginevid.io/grok-image)**
 

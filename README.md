@@ -47,9 +47,9 @@ Grok Imagine Image is xAI's image-generation and image-editing model. Useful pro
 
 ## Verified community cases
 
-| Collection status | 10 verified cases |
+| Collection status | 12 verified cases |
 |---|---:|
-| Last generated | 2026-07-18 |
+| Last generated | 2026-07-19 |
 
 ### 1. Realistic-to-cartoon split portrait
 
@@ -334,6 +334,57 @@ Mood: warm, joyful, simple domestic bliss. Soft watercolor washes, visible brush
 - **Canonical post:** [X / Twitter](https://x.com/DavidLi36143625/status/2052139222572949974)
 - **Published:** 2026-05-06
 - **Category:** Editorial Composition
+
+**[Use this prompt on ImagineVid](https://imaginevid.io/grok-image)**
+
+---
+
+### 11. Single mekugi correction on a katana handle
+
+A surgical two-reference product edit that preserves the diagonal shirasaya composition while changing only one construction detail on the handle.
+
+#### Prompt
+
+```text
+Keep the first image's diagonal katana shirasaya composition, white background, and plain wooden saya with no pegs. On the tsuka handle only, show a single mekugi like the second image: one dark circular pin embedded flush into the wood near the habaki. Preserve the blade angle, lighting, grain direction, proportions, and all other details exactly. Do not add a second peg or alter the saya.
+```
+
+<table><tr>
+<td width="100%"><img src="https://pbs.twimg.com/media/HNdJ6-qaEAATk7D.jpg" width="100%" alt="Single mekugi correction on a katana handle"></td>
+</tr></table>
+
+#### Source evidence
+
+- **Creator:** [@sakana_no_sippo](https://x.com/sakana_no_sippo)
+- **Canonical post:** [X / Twitter](https://x.com/sakana_no_sippo/status/2078211037103616314)
+- **Published:** 2026-07-17
+- **Category:** Product Photography
+
+**[Use this prompt on ImagineVid](https://imaginevid.io/grok-image)**
+
+---
+
+### 12. Atmospheric navy-lace apartment portrait
+
+A compact photoreal portrait brief centered on pose, wardrobe texture, jewelry, skin lighting, and a softly separated interior background.
+
+#### Prompt
+
+```text
+Photorealistic high-resolution photograph of an adult Scandinavian fashion model with long blonde hair and an athletic build in a living-room apartment, looking over her shoulder in a dark navy-blue sleeveless lace gown. Add layered silver necklaces and sparkling crystal drop earrings. Use soft atmospheric lighting that shapes natural skin texture and separates the subject from a dreamy, shallow-depth-of-field interior background. Refined editorial styling, realistic anatomy, restrained color grade.
+```
+
+<table><tr>
+<td width="50%"><img src="https://pbs.twimg.com/media/HNKQfSiakAApD7M.jpg" width="100%" alt="Atmospheric navy-lace apartment portrait"></td>
+<td width="50%"><img src="https://pbs.twimg.com/media/HNKQfSlaIAAVtWb.jpg" width="100%" alt="Atmospheric navy-lace apartment portrait"></td>
+</tr></table>
+
+#### Source evidence
+
+- **Creator:** [@tealdog2](https://x.com/tealdog2)
+- **Canonical post:** [X / Twitter](https://x.com/tealdog2/status/2076881249457799506)
+- **Published:** 2026-07-14
+- **Category:** Portrait & Character Design
 
 **[Use this prompt on ImagineVid](https://imaginevid.io/grok-image)**
 

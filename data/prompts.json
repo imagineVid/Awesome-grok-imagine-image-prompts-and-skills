@@ -404,5 +404,92 @@
         }
       ]
     }
+  },
+  {
+    "id": 11,
+    "model": "Grok Imagine Image",
+    "title": "Single mekugi correction on a katana handle",
+    "description": "A surgical two-reference product edit that preserves the diagonal shirasaya composition while changing only one construction detail on the handle.",
+    "content": "Keep the first image's diagonal katana shirasaya composition, white background, and plain wooden saya with no pegs. On the tsuka handle only, show a single mekugi like the second image: one dark circular pin embedded flush into the wood near the habaki. Preserve the blade angle, lighting, grain direction, proportions, and all other details exactly. Do not add a second peg or alter the saya.",
+    "sourceLink": "https://x.com/sakana_no_sippo/status/2078211037103616314",
+    "sourcePublishedAt": "2026-07-17T20:11:37.000Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/media/HNdJ6-qaEAATk7D.jpg"
+    ],
+    "author": {
+      "name": "@sakana_no_sippo",
+      "link": "https://x.com/sakana_no_sippo"
+    },
+    "language": "en",
+    "featured": false,
+    "sort": 11,
+    "needReferenceImages": true,
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2078211037103616314",
+      "prompt_source": "tweet_text_prompt_editorially_completed",
+      "retweetCount": 0,
+      "replyCount": 1,
+      "likeCount": 2,
+      "quoteCount": 0,
+      "viewCount": 149,
+      "bookmarkCount": 0,
+      "model_evidence": "grok-imagine-image",
+      "collected_at": "2026-07-19",
+      "curation_note": "Passed explicit-model, reusable-prompt, canonical-source, inspectable-media, duplicate, and editorial-value review."
+    },
+    "imageCategories": {
+      "workflows": [
+        {
+          "id": 102,
+          "title": "Product Photography",
+          "slug": "product-photography"
+        }
+      ]
+    }
+  },
+  {
+    "id": 12,
+    "model": "Grok Imagine Image",
+    "title": "Atmospheric navy-lace apartment portrait",
+    "description": "A compact photoreal portrait brief centered on pose, wardrobe texture, jewelry, skin lighting, and a softly separated interior background.",
+    "content": "Photorealistic high-resolution photograph of an adult Scandinavian fashion model with long blonde hair and an athletic build in a living-room apartment, looking over her shoulder in a dark navy-blue sleeveless lace gown. Add layered silver necklaces and sparkling crystal drop earrings. Use soft atmospheric lighting that shapes natural skin texture and separates the subject from a dreamy, shallow-depth-of-field interior background. Refined editorial styling, realistic anatomy, restrained color grade.",
+    "sourceLink": "https://x.com/tealdog2/status/2076881249457799506",
+    "sourcePublishedAt": "2026-07-14T04:07:31.000Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/media/HNKQfSiakAApD7M.jpg",
+      "https://pbs.twimg.com/media/HNKQfSlaIAAVtWb.jpg"
+    ],
+    "author": {
+      "name": "@tealdog2",
+      "link": "https://x.com/tealdog2"
+    },
+    "language": "en",
+    "featured": false,
+    "sort": 12,
+    "needReferenceImages": false,
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2076881249457799506",
+      "prompt_source": "tweet_text_prompt_normalized",
+      "retweetCount": 0,
+      "replyCount": 0,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "viewCount": 182,
+      "bookmarkCount": 0,
+      "model_evidence": "grok-imagine-image",
+      "collected_at": "2026-07-19",
+      "curation_note": "Passed explicit-model, reusable-prompt, canonical-source, inspectable-media, duplicate, and editorial-value review."
+    },
+    "imageCategories": {
+      "workflows": [
+        {
+          "id": 101,
+          "title": "Portrait & Character Design",
+          "slug": "portrait-and-character-design"
+        }
+      ]
+    }
   }
 ]

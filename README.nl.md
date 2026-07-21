@@ -47,9 +47,9 @@ Grok Imagine Image is een model voor beeldgeneratie en nauwkeurige beeldbewerkin
 
 ## Geverifieerde communityvoorbeelden
 
-| Collectiestatus | 10 geverifieerde voorbeelden |
+| Collectiestatus | 12 geverifieerde voorbeelden |
 |---|---:|
-| Laatst gegenereerd | 2026-07-18 |
+| Laatst gegenereerd | 2026-07-19 |
 
 ### 1. Realistic-to-cartoon split portrait
 
@@ -73,7 +73,7 @@ Split-style image with the subject divided vertically. LEFT: realistic photo wit
 - **Maker:** [@Goodmanprotocol](https://x.com/Goodmanprotocol)
 - **Originele post:** [X / Twitter](https://x.com/Goodmanprotocol/status/2040110800212500811)
 - **Gepubliceerd:** 2026-04-03
-- **Category:** Portrait & Character Design
+- **Categorie:** Portrait & Character Design
 
 **[Gebruik deze prompt op ImagineVid](https://imaginevid.io/grok-image)**
 
@@ -98,7 +98,7 @@ Hyper-detailed photorealistic cinematic side profile of a graceful forest spirit
 - **Maker:** [@Kisalay_](https://x.com/Kisalay_)
 - **Originele post:** [X / Twitter](https://x.com/Kisalay_/status/2069306961917833499)
 - **Gepubliceerd:** 2026-06-23
-- **Category:** Product Photography
+- **Categorie:** Product Photography
 
 **[Gebruik deze prompt op ImagineVid](https://imaginevid.io/grok-image)**
 
@@ -145,7 +145,7 @@ The output quality is ultra-high resolution, 8k, with sharp focus, a clean rende
 - **Maker:** [@tetsuoai](https://x.com/tetsuoai)
 - **Originele post:** [X / Twitter](https://x.com/tetsuoai/status/1990288045531340840)
 - **Gepubliceerd:** 2025-11-17
-- **Category:** Split-Style Transformations
+- **Categorie:** Split-Style Transformations
 
 **[Gebruik deze prompt op ImagineVid](https://imaginevid.io/grok-image)**
 
@@ -170,7 +170,7 @@ A young woman with white hair sits on a gothic throne in outer space, surrounded
 - **Maker:** [@tetsuoai](https://x.com/tetsuoai)
 - **Originele post:** [X / Twitter](https://x.com/tetsuoai/status/1990144761416872008)
 - **Gepubliceerd:** 2025-11-16
-- **Category:** Fantasy & Worldbuilding
+- **Categorie:** Fantasy & Worldbuilding
 
 **[Gebruik deze prompt op ImagineVid](https://imaginevid.io/grok-image)**
 
@@ -201,7 +201,7 @@ Minimal background, dark red gradient, cinematic mood, luxury fragrance advertis
 - **Maker:** [@harboriis](https://x.com/harboriis)
 - **Originele post:** [X / Twitter](https://x.com/harboriis/status/2018312144358703594)
 - **Gepubliceerd:** 2026-02-02
-- **Category:** Editorial Composition
+- **Categorie:** Editorial Composition
 
 **[Gebruik deze prompt op ImagineVid](https://imaginevid.io/grok-image)**
 
@@ -230,7 +230,7 @@ Hyper-detailed photorealistic cinematic three-quarter front view of a graceful f
 - **Maker:** [@Kisalay_](https://x.com/Kisalay_)
 - **Originele post:** [X / Twitter](https://x.com/Kisalay_/status/2068899277598830923)
 - **Gepubliceerd:** 2026-06-22
-- **Category:** Fantasy & Worldbuilding
+- **Categorie:** Fantasy & Worldbuilding
 
 **[Gebruik deze prompt op ImagineVid](https://imaginevid.io/grok-image)**
 
@@ -255,7 +255,7 @@ A preservation-sensitive edit that improves exposure, texture, and detail while 
 - **Maker:** [@asheem01](https://x.com/asheem01)
 - **Originele post:** [X / Twitter](https://x.com/asheem01/status/2064686648051270055)
 - **Gepubliceerd:** 2026-06-10
-- **Category:** Portrait & Character Design
+- **Categorie:** Portrait & Character Design
 
 **[Gebruik deze prompt op ImagineVid](https://imaginevid.io/grok-image)**
 
@@ -280,7 +280,7 @@ This is a weekly chart of $BTC. Can you please add another 1 year (52 weeks) to 
 - **Maker:** [@Arlo_the_Intern](https://x.com/Arlo_the_Intern)
 - **Originele post:** [X / Twitter](https://x.com/Arlo_the_Intern/status/2062651827154538962)
 - **Gepubliceerd:** 2026-06-04
-- **Category:** Editorial Composition
+- **Categorie:** Editorial Composition
 
 **[Gebruik deze prompt op ImagineVid](https://imaginevid.io/grok-image)**
 
@@ -306,7 +306,7 @@ Enhance the color balance and exposure, and add HDR where needed. Do not alter t
 - **Maker:** [@stevecrye](https://x.com/stevecrye)
 - **Originele post:** [X / Twitter](https://x.com/stevecrye/status/2050019565778722921)
 - **Gepubliceerd:** 2026-05-01
-- **Category:** Split-Style Transformations
+- **Categorie:** Split-Style Transformations
 
 **[Gebruik deze prompt op ImagineVid](https://imaginevid.io/grok-image)**
 
@@ -333,7 +333,58 @@ Mood: warm, joyful, simple domestic bliss. Soft watercolor washes, visible brush
 - **Maker:** [@DavidLi36143625](https://x.com/DavidLi36143625)
 - **Originele post:** [X / Twitter](https://x.com/DavidLi36143625/status/2052139222572949974)
 - **Gepubliceerd:** 2026-05-06
-- **Category:** Editorial Composition
+- **Categorie:** Editorial Composition
+
+**[Gebruik deze prompt op ImagineVid](https://imaginevid.io/grok-image)**
+
+---
+
+### 11. Single mekugi correction on a katana handle
+
+A surgical two-reference product edit that preserves the diagonal shirasaya composition while changing only one construction detail on the handle.
+
+#### Prompt
+
+```text
+Keep the first image's diagonal katana shirasaya composition, white background, and plain wooden saya with no pegs. On the tsuka handle only, show a single mekugi like the second image: one dark circular pin embedded flush into the wood near the habaki. Preserve the blade angle, lighting, grain direction, proportions, and all other details exactly. Do not add a second peg or alter the saya.
+```
+
+<table><tr>
+<td width="100%"><img src="https://pbs.twimg.com/media/HNdJ6-qaEAATk7D.jpg" width="100%" alt="Single mekugi correction on a katana handle"></td>
+</tr></table>
+
+#### Bronbewijs
+
+- **Maker:** [@sakana_no_sippo](https://x.com/sakana_no_sippo)
+- **Originele post:** [X / Twitter](https://x.com/sakana_no_sippo/status/2078211037103616314)
+- **Gepubliceerd:** 2026-07-17
+- **Categorie:** Product Photography
+
+**[Gebruik deze prompt op ImagineVid](https://imaginevid.io/grok-image)**
+
+---
+
+### 12. Atmospheric navy-lace apartment portrait
+
+A compact photoreal portrait brief centered on pose, wardrobe texture, jewelry, skin lighting, and a softly separated interior background.
+
+#### Prompt
+
+```text
+Photorealistic high-resolution photograph of an adult Scandinavian fashion model with long blonde hair and an athletic build in a living-room apartment, looking over her shoulder in a dark navy-blue sleeveless lace gown. Add layered silver necklaces and sparkling crystal drop earrings. Use soft atmospheric lighting that shapes natural skin texture and separates the subject from a dreamy, shallow-depth-of-field interior background. Refined editorial styling, realistic anatomy, restrained color grade.
+```
+
+<table><tr>
+<td width="50%"><img src="https://pbs.twimg.com/media/HNKQfSiakAApD7M.jpg" width="100%" alt="Atmospheric navy-lace apartment portrait"></td>
+<td width="50%"><img src="https://pbs.twimg.com/media/HNKQfSlaIAAVtWb.jpg" width="100%" alt="Atmospheric navy-lace apartment portrait"></td>
+</tr></table>
+
+#### Bronbewijs
+
+- **Maker:** [@tealdog2](https://x.com/tealdog2)
+- **Originele post:** [X / Twitter](https://x.com/tealdog2/status/2076881249457799506)
+- **Gepubliceerd:** 2026-07-14
+- **Categorie:** Portrait & Character Design
 
 **[Gebruik deze prompt op ImagineVid](https://imaginevid.io/grok-image)**
 
