@@ -491,5 +491,50 @@
         }
       ]
     }
+  },
+  {
+    "id": 13,
+    "model": "Grok Imagine Image",
+    "title": "Retro-futurist record player in safety orange",
+    "description": "An official Grok Imagine product study built around sandblasted metal, cantilevered geometry, controlled orange accents, and clean studio shadows.",
+    "content": "Studio product shot of a tabletop record player with a massive solid-metal spinning platter. Industrial design in matte sandblasted aluminum with vibrant safety-orange accents, minimalist geometric forms, retro-futuristic functionalism, cantilevered structures, and visible flat-head screw pivots. Use soft studio lighting, a smooth neutral gradient background, dramatic but physically grounded drop shadows, crisp metallic texture, high-end product-rendering precision, utilitarian aesthetics, and strong contrast. Keep the object mechanically plausible, centered, and free of logos or extra text.",
+    "sourceLink": "https://x.com/imagine/status/2059371977060835585",
+    "sourcePublishedAt": "2026-05-26T20:31:55.000Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/media/HJRbnLrb0AAiuDj.jpg",
+      "https://pbs.twimg.com/media/HJRbn3abcAA1q7Y.jpg",
+      "https://pbs.twimg.com/media/HJRbsoSaAAA5HFO.jpg"
+    ],
+    "author": {
+      "name": "Grok Imagine",
+      "link": "https://x.com/imagine"
+    },
+    "language": "en",
+    "featured": true,
+    "needReferenceImages": false,
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2059371977060835585",
+      "model_evidence": "grok-imagine-image-official",
+      "collected_at": "2026-07-22",
+      "curation_note": "Passed explicit-model, reusable-prompt, canonical-source, inspectable-media, duplicate, and editorial-value review.",
+      "prompt_source": "official_tweet_prompt_normalized",
+      "retweetCount": 11,
+      "replyCount": 8,
+      "likeCount": 199,
+      "quoteCount": 1,
+      "viewCount": 22819,
+      "bookmarkCount": 34
+    },
+    "imageCategories": {
+      "workflows": [
+        {
+          "id": 102,
+          "title": "Product Photography",
+          "slug": "product-photography"
+        }
+      ]
+    },
+    "sort": 13
   }
 ]
