@@ -536,5 +536,182 @@
       ]
     },
     "sort": 13
+  },
+  {
+    "id": 14,
+    "model": "Grok Imagine Image",
+    "title": "A photorealistic image of the cyborg woman from the",
+    "description": "A source-backed community image prompt rewritten into a reusable production brief with concrete visual direction.",
+    "content": "Create a photorealistic image of the cyborg woman from the second image driving the Tesla Cybertruck from the first image. Show her seated in the driver's seat of the Cybertruck, hands firmly on the steering wheel, her intense glowing red eyes lookin...",
+    "sourceLink": "https://x.com/iadventurejacek/status/2081297047676743856",
+    "sourcePublishedAt": "2026-07-26T08:34:19.000Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/media/HOJAobfXgAAj5lM.jpg"
+    ],
+    "author": {
+      "name": "Jacek",
+      "link": "https://x.com/iadventurejacek"
+    },
+    "language": "en",
+    "featured": false,
+    "sort": 14,
+    "needReferenceImages": false,
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2081297047676743856",
+      "model_evidence": "grok-imagine-image",
+      "collected_at": "2026-07-27",
+      "curation_note": "Passed explicit prompt, source attribution, media availability, duplicate, and editorial-value review.",
+      "prompt_source": "tweet_text_prompt_normalized",
+      "retweetCount": 0,
+      "replyCount": 2,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "viewCount": 26,
+      "bookmarkCount": 0
+    },
+    "imageCategories": {
+      "workflows": [
+        {
+          "id": 102,
+          "title": "Product Photography",
+          "slug": "product-photography"
+        }
+      ]
+    }
+  },
+  {
+    "id": 15,
+    "model": "Grok Imagine Image",
+    "title": "Ing. I actually used Grok Imagine on Quality mode",
+    "description": "A source-backed community image prompt rewritten into a reusable production brief with concrete visual direction.",
+    "content": "ing. I actually used Grok Imagine on Quality mode for my character sheet. I knew that my character not only embodies the element of water, but since the fight takes place in a body of water, he should be soaked in water from the start. If I use an image without the wetness, it completely breaks immersion as he will emerge from the water being completely dry. My initial prompt included Fang wearing a straw hat but I removed it later and also prompted for him to be wet. Prompt: Create a photorealistic character sheet for a character. Include a closeup portrait, which is left aligned, no borders, with a neutral expression and then also include a full view shot that shows the front, right side view, left side view and back of the character. - A legendary middle aged rugged lone chinese warrior in tattered straw-woven armor, tighter clothing like a ninja, dark royal blue fabric with gold and red detailing, large straw armor similar to a poncho, wielding a wooden ornate staff carved with a dark cylindrical decorative tip, his right hand, no other weapons. Neutral expression. On a white background. The character is completely wet. This character sheet can now be used with Seedance 2.0 Omni and I can prompt him into a variety of different locations with full consistency.",
+    "sourceLink": "https://x.com/MrDavids1/status/2080675119563751922",
+    "sourcePublishedAt": "2026-07-24T15:23:00.000Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/media/HOAFPETXsAA_MZn.jpg"
+    ],
+    "author": {
+      "name": "Travis Davids",
+      "link": "https://x.com/MrDavids1"
+    },
+    "language": "en",
+    "featured": false,
+    "sort": 15,
+    "needReferenceImages": false,
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2080675119563751922",
+      "model_evidence": "grok-imagine-image",
+      "collected_at": "2026-07-27",
+      "curation_note": "Passed explicit prompt, source attribution, media availability, duplicate, and editorial-value review.",
+      "prompt_source": "tweet_text_prompt_normalized",
+      "retweetCount": 1,
+      "replyCount": 1,
+      "likeCount": 5,
+      "quoteCount": 0,
+      "viewCount": 368,
+      "bookmarkCount": 6
+    },
+    "imageCategories": {
+      "workflows": [
+        {
+          "id": 102,
+          "title": "Product Photography",
+          "slug": "product-photography"
+        }
+      ]
+    }
+  },
+  {
+    "id": 16,
+    "model": "Grok Imagine Image",
+    "title": "Not many know this about me, but I m",
+    "description": "A source-backed community image prompt rewritten into a reusable production brief with concrete visual direction.",
+    "content": "Not many know this about me, but I'm actually a published author of flash fiction stories. I'll link in the comments below. I haven't written in a long time, and I missed it. I hope you enjoy this flash fiction story about choosing purpose!",
+    "sourceLink": "https://x.com/bradshannon/status/2080465422420250710",
+    "sourcePublishedAt": "2026-07-24T01:29:44.000Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/media/HN9Lkn1WEAA4NKS.jpg",
+      "https://pbs.twimg.com/media/HN9L74BWMAAqlvF.jpg"
+    ],
+    "author": {
+      "name": "bradshannon",
+      "link": "https://x.com/bradshannon"
+    },
+    "language": "en",
+    "featured": false,
+    "sort": 16,
+    "needReferenceImages": false,
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2080465422420250710",
+      "model_evidence": "grok-imagine-image",
+      "collected_at": "2026-07-27",
+      "curation_note": "Passed explicit prompt, source attribution, media availability, duplicate, and editorial-value review.",
+      "prompt_source": "tweet_text_prompt_normalized",
+      "retweetCount": 0,
+      "replyCount": 2,
+      "likeCount": 6,
+      "quoteCount": 0,
+      "viewCount": 436,
+      "bookmarkCount": 0
+    },
+    "imageCategories": {
+      "workflows": [
+        {
+          "id": 102,
+          "title": "Product Photography",
+          "slug": "product-photography"
+        }
+      ]
+    }
+  },
+  {
+    "id": 17,
+    "model": "Grok Imagine Image",
+    "title": "Emerald biomechanical OVA anime portrait",
+    "description": "A Grok Imagine Image prompt for retro cel-anime body-machine fusion with intense green light and VHS grain.",
+    "content": "1990s dark OVA anime style, retro cel animation, a young woman with blunt black bangs and pale blood-spattered face, head thrown back inside a glossy black biomechanical helmet, eyes wide, mouth slightly open, flooded in overwhelming emerald green light pouring through every seam and joint of her wet black armor, luminous green particles streaming around her face as if underwater, glowing green energy veins across the obsidian mech suit, ecstatic and terrified at once, girl and machine indistinguishable, intense bloom, sensory overload, harsh specular highlights, VHS film grain, painterly shading, Tsutomu Nihei and Yoshiaki Kawajiri inspired, transcendent, sublime.",
+    "sourceLink": "https://x.com/tetsuoai/status/2074558893909496317",
+    "sourcePublishedAt": "Tue Jul 07 18:19:18 +0000 2026",
+    "sourceMedia": [
+      "https://pbs.twimg.com/amplify_video_thumb/2074558045066231808/img/hCFAFa6GHDcJSm4M.jpg"
+    ],
+    "author": {
+      "name": "tetsuo",
+      "link": "https://x.com/tetsuoai"
+    },
+    "language": "en",
+    "featured": false,
+    "sort": 17,
+    "needReferenceImages": false,
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2074558893909496317",
+      "model_evidence": "grok-imagine-image",
+      "collected_at": "2026-07-28",
+      "curation_note": "Second-wave twitterapi.io candidate accepted after explicit prompt, media, attribution, duplicate, and editorial-value review.",
+      "prompt_source": "tweet_text_prompt_normalized",
+      "retweetCount": 19,
+      "replyCount": 34,
+      "likeCount": 240,
+      "quoteCount": 3,
+      "viewCount": 14331,
+      "bookmarkCount": 53
+    },
+    "imageCategories": {
+      "workflows": [
+        {
+          "id": 102,
+          "title": "Product Photography",
+          "slug": "product-photography"
+        }
+      ]
+    },
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2074558045066231808/vid/avc1/1904x1072/bB44r3PLXaCloZAm.mp4?tag=25",
+      "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2074558045066231808/img/hCFAFa6GHDcJSm4M.jpg"
+    }
   }
 ]

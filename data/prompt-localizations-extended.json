@@ -1,1 +1,552 @@
-{}
+{
+  "zh": {
+    "14": {
+      "title": "新增案例：A photorealistic image of the cyborg woman from the",
+      "description": "来自 X 的可复用提示词案例，重点保留清晰的视觉目标、可控构图和来源可追溯性。",
+      "content": "本地化版本：保留以下英文源提示词的镜头、时间、主体一致性和负面约束；如需出现文字或对白，请替换为本语言。\n\nCreate a photorealistic image of the cyborg woman from the second image driving the Tesla Cybertruck from the first image. Show her seated in the driver's seat of the Cybertruck, hands firmly on the steering wheel, her intense glowing red eyes lookin..."
+    },
+    "15": {
+      "title": "新增案例：Ing. I actually used Grok Imagine on Quality mode",
+      "description": "来自 X 的可复用提示词案例，重点保留清晰的视觉目标、可控构图和来源可追溯性。",
+      "content": "本地化版本：保留以下英文源提示词的镜头、时间、主体一致性和负面约束；如需出现文字或对白，请替换为本语言。\n\ning. I actually used Grok Imagine on Quality mode for my character sheet. I knew that my character not only embodies the element of water, but since the fight takes place in a body of water, he should be soaked in water from the start. If I use an image without the wetness, it completely breaks immersion as he will emerge from the water being completely dry. My initial prompt included Fang wearing a straw hat but I removed it later and also prompted for him to be wet. Prompt: Create a photorealistic character sheet for a character. Include a closeup portrait, which is left aligned, no borders, with a neutral expression and then also include a full view shot that shows the front, right side view, left side view and back of the character. - A legendary middle aged rugged lone chinese warrior in tattered straw-woven armor, tighter clothing like a ninja, dark royal blue fabric with gold and red detailing, large straw armor similar to a poncho, wielding a wooden ornate staff carved with a dark cylindrical decorative tip, his right hand, no other weapons. Neutral expression. On a white background. The character is completely wet. This character sheet can now be used with Seedance 2.0 Omni and I can prompt him into a variety of different locations with full consistency."
+    },
+    "16": {
+      "title": "新增案例：Not many know this about me, but I m",
+      "description": "来自 X 的可复用提示词案例，重点保留清晰的视觉目标、可控构图和来源可追溯性。",
+      "content": "本地化版本：保留以下英文源提示词的镜头、时间、主体一致性和负面约束；如需出现文字或对白，请替换为本语言。\n\nNot many know this about me, but I'm actually a published author of flash fiction stories. I'll link in the comments below. I haven't written in a long time, and I missed it. I hope you enjoy this flash fiction story about choosing purpose!"
+    },
+    "17": {
+      "title": "New case: Emerald biomechanical OVA anime portrait",
+      "description": "A Grok Imagine Image prompt for retro cel-anime body-machine fusion with intense green light and VHS grain.",
+      "content": "本地化版本：保留以下英文源提示词的镜头、构图、主体一致性和负面约束；如需出现文字或对白，请替换为本语言。\n\n1990s dark OVA anime style, retro cel animation, a young woman with blunt black bangs and pale blood-spattered face, head thrown back inside a glossy black biomechanical helmet, eyes wide, mouth slightly open, flooded in overwhelming emerald green light pouring through every seam and joint of her wet black armor, luminous green particles streaming around her face as if underwater, glowing green energy veins across the obsidian mech suit, ecstatic and terrified at once, girl and machine indistinguishable, intense bloom, sensory overload, harsh specular highlights, VHS film grain, painterly shading, Tsutomu Nihei and Yoshiaki Kawajiri inspired, transcendent, sublime."
+    }
+  },
+  "ja-JP": {
+    "14": {
+      "title": "新規ケース: A photorealistic image of the cyborg woman from the",
+      "description": "X の公開ソースに基づく再利用可能なプロンプト例。構図、制約、制作意図を明確に保ちます。",
+      "content": "ローカライズ版: 以下の英語ソースプロンプトのカメラ、タイミング、主体の一貫性、制約を維持し、表示文字や台詞だけをこの言語に置き換えてください。\n\nCreate a photorealistic image of the cyborg woman from the second image driving the Tesla Cybertruck from the first image. Show her seated in the driver's seat of the Cybertruck, hands firmly on the steering wheel, her intense glowing red eyes lookin..."
+    },
+    "15": {
+      "title": "新規ケース: Ing. I actually used Grok Imagine on Quality mode",
+      "description": "X の公開ソースに基づく再利用可能なプロンプト例。構図、制約、制作意図を明確に保ちます。",
+      "content": "ローカライズ版: 以下の英語ソースプロンプトのカメラ、タイミング、主体の一貫性、制約を維持し、表示文字や台詞だけをこの言語に置き換えてください。\n\ning. I actually used Grok Imagine on Quality mode for my character sheet. I knew that my character not only embodies the element of water, but since the fight takes place in a body of water, he should be soaked in water from the start. If I use an image without the wetness, it completely breaks immersion as he will emerge from the water being completely dry. My initial prompt included Fang wearing a straw hat but I removed it later and also prompted for him to be wet. Prompt: Create a photorealistic character sheet for a character. Include a closeup portrait, which is left aligned, no borders, with a neutral expression and then also include a full view shot that shows the front, right side view, left side view and back of the character. - A legendary middle aged rugged lone chinese warrior in tattered straw-woven armor, tighter clothing like a ninja, dark royal blue fabric with gold and red detailing, large straw armor similar to a poncho, wielding a wooden ornate staff carved with a dark cylindrical decorative tip, his right hand, no other weapons. Neutral expression. On a white background. The character is completely wet. This character sheet can now be used with Seedance 2.0 Omni and I can prompt him into a variety of different locations with full consistency."
+    },
+    "16": {
+      "title": "新規ケース: Not many know this about me, but I m",
+      "description": "X の公開ソースに基づく再利用可能なプロンプト例。構図、制約、制作意図を明確に保ちます。",
+      "content": "ローカライズ版: 以下の英語ソースプロンプトのカメラ、タイミング、主体の一貫性、制約を維持し、表示文字や台詞だけをこの言語に置き換えてください。\n\nNot many know this about me, but I'm actually a published author of flash fiction stories. I'll link in the comments below. I haven't written in a long time, and I missed it. I hope you enjoy this flash fiction story about choosing purpose!"
+    },
+    "17": {
+      "title": "New case: Emerald biomechanical OVA anime portrait",
+      "description": "A Grok Imagine Image prompt for retro cel-anime body-machine fusion with intense green light and VHS grain.",
+      "content": "ローカライズ版：次の英語ソースプロンプトのカメラ、構図、被写体の一貫性、制約を保ち、表示文字や台詞だけをこの言語に置き換えてください。\n\n1990s dark OVA anime style, retro cel animation, a young woman with blunt black bangs and pale blood-spattered face, head thrown back inside a glossy black biomechanical helmet, eyes wide, mouth slightly open, flooded in overwhelming emerald green light pouring through every seam and joint of her wet black armor, luminous green particles streaming around her face as if underwater, glowing green energy veins across the obsidian mech suit, ecstatic and terrified at once, girl and machine indistinguishable, intense bloom, sensory overload, harsh specular highlights, VHS film grain, painterly shading, Tsutomu Nihei and Yoshiaki Kawajiri inspired, transcendent, sublime."
+    }
+  },
+  "ja": {
+    "14": {
+      "title": "新規ケース: A photorealistic image of the cyborg woman from the",
+      "description": "X の公開ソースに基づく再利用可能なプロンプト例。構図、制約、制作意図を明確に保ちます。",
+      "content": "ローカライズ版: 以下の英語ソースプロンプトのカメラ、タイミング、主体の一貫性、制約を維持し、表示文字や台詞だけをこの言語に置き換えてください。\n\nCreate a photorealistic image of the cyborg woman from the second image driving the Tesla Cybertruck from the first image. Show her seated in the driver's seat of the Cybertruck, hands firmly on the steering wheel, her intense glowing red eyes lookin..."
+    },
+    "15": {
+      "title": "新規ケース: Ing. I actually used Grok Imagine on Quality mode",
+      "description": "X の公開ソースに基づく再利用可能なプロンプト例。構図、制約、制作意図を明確に保ちます。",
+      "content": "ローカライズ版: 以下の英語ソースプロンプトのカメラ、タイミング、主体の一貫性、制約を維持し、表示文字や台詞だけをこの言語に置き換えてください。\n\ning. I actually used Grok Imagine on Quality mode for my character sheet. I knew that my character not only embodies the element of water, but since the fight takes place in a body of water, he should be soaked in water from the start. If I use an image without the wetness, it completely breaks immersion as he will emerge from the water being completely dry. My initial prompt included Fang wearing a straw hat but I removed it later and also prompted for him to be wet. Prompt: Create a photorealistic character sheet for a character. Include a closeup portrait, which is left aligned, no borders, with a neutral expression and then also include a full view shot that shows the front, right side view, left side view and back of the character. - A legendary middle aged rugged lone chinese warrior in tattered straw-woven armor, tighter clothing like a ninja, dark royal blue fabric with gold and red detailing, large straw armor similar to a poncho, wielding a wooden ornate staff carved with a dark cylindrical decorative tip, his right hand, no other weapons. Neutral expression. On a white background. The character is completely wet. This character sheet can now be used with Seedance 2.0 Omni and I can prompt him into a variety of different locations with full consistency."
+    },
+    "16": {
+      "title": "新規ケース: Not many know this about me, but I m",
+      "description": "X の公開ソースに基づく再利用可能なプロンプト例。構図、制約、制作意図を明確に保ちます。",
+      "content": "ローカライズ版: 以下の英語ソースプロンプトのカメラ、タイミング、主体の一貫性、制約を維持し、表示文字や台詞だけをこの言語に置き換えてください。\n\nNot many know this about me, but I'm actually a published author of flash fiction stories. I'll link in the comments below. I haven't written in a long time, and I missed it. I hope you enjoy this flash fiction story about choosing purpose!"
+    },
+    "17": {
+      "title": "New case: Emerald biomechanical OVA anime portrait",
+      "description": "A Grok Imagine Image prompt for retro cel-anime body-machine fusion with intense green light and VHS grain.",
+      "content": "ローカライズ版：次の英語ソースプロンプトのカメラ、構図、被写体の一貫性、制約を保ち、表示文字や台詞だけをこの言語に置き換えてください。\n\n1990s dark OVA anime style, retro cel animation, a young woman with blunt black bangs and pale blood-spattered face, head thrown back inside a glossy black biomechanical helmet, eyes wide, mouth slightly open, flooded in overwhelming emerald green light pouring through every seam and joint of her wet black armor, luminous green particles streaming around her face as if underwater, glowing green energy veins across the obsidian mech suit, ecstatic and terrified at once, girl and machine indistinguishable, intense bloom, sensory overload, harsh specular highlights, VHS film grain, painterly shading, Tsutomu Nihei and Yoshiaki Kawajiri inspired, transcendent, sublime."
+    }
+  },
+  "ko-KR": {
+    "14": {
+      "title": "신규 사례: A photorealistic image of the cyborg woman from the",
+      "description": "X 공개 출처를 바탕으로 정리한 재사용 가능한 프롬프트 사례입니다. 구도와 제약 조건을 명확히 유지합니다.",
+      "content": "현지화 버전: 아래 영어 원본 프롬프트의 카메라, 타이밍, 주체 일관성, 제약 조건은 유지하고 표시 텍스트나 대사만 이 언어로 바꾸세요.\n\nCreate a photorealistic image of the cyborg woman from the second image driving the Tesla Cybertruck from the first image. Show her seated in the driver's seat of the Cybertruck, hands firmly on the steering wheel, her intense glowing red eyes lookin..."
+    },
+    "15": {
+      "title": "신규 사례: Ing. I actually used Grok Imagine on Quality mode",
+      "description": "X 공개 출처를 바탕으로 정리한 재사용 가능한 프롬프트 사례입니다. 구도와 제약 조건을 명확히 유지합니다.",
+      "content": "현지화 버전: 아래 영어 원본 프롬프트의 카메라, 타이밍, 주체 일관성, 제약 조건은 유지하고 표시 텍스트나 대사만 이 언어로 바꾸세요.\n\ning. I actually used Grok Imagine on Quality mode for my character sheet. I knew that my character not only embodies the element of water, but since the fight takes place in a body of water, he should be soaked in water from the start. If I use an image without the wetness, it completely breaks immersion as he will emerge from the water being completely dry. My initial prompt included Fang wearing a straw hat but I removed it later and also prompted for him to be wet. Prompt: Create a photorealistic character sheet for a character. Include a closeup portrait, which is left aligned, no borders, with a neutral expression and then also include a full view shot that shows the front, right side view, left side view and back of the character. - A legendary middle aged rugged lone chinese warrior in tattered straw-woven armor, tighter clothing like a ninja, dark royal blue fabric with gold and red detailing, large straw armor similar to a poncho, wielding a wooden ornate staff carved with a dark cylindrical decorative tip, his right hand, no other weapons. Neutral expression. On a white background. The character is completely wet. This character sheet can now be used with Seedance 2.0 Omni and I can prompt him into a variety of different locations with full consistency."
+    },
+    "16": {
+      "title": "신규 사례: Not many know this about me, but I m",
+      "description": "X 공개 출처를 바탕으로 정리한 재사용 가능한 프롬프트 사례입니다. 구도와 제약 조건을 명확히 유지합니다.",
+      "content": "현지화 버전: 아래 영어 원본 프롬프트의 카메라, 타이밍, 주체 일관성, 제약 조건은 유지하고 표시 텍스트나 대사만 이 언어로 바꾸세요.\n\nNot many know this about me, but I'm actually a published author of flash fiction stories. I'll link in the comments below. I haven't written in a long time, and I missed it. I hope you enjoy this flash fiction story about choosing purpose!"
+    },
+    "17": {
+      "title": "New case: Emerald biomechanical OVA anime portrait",
+      "description": "A Grok Imagine Image prompt for retro cel-anime body-machine fusion with intense green light and VHS grain.",
+      "content": "현지화 버전: 아래 영어 원본 프롬프트의 카메라, 구도, 주체 일관성, 제약을 유지하고 화면 텍스트나 대사만 이 언어로 바꾸세요。\n\n1990s dark OVA anime style, retro cel animation, a young woman with blunt black bangs and pale blood-spattered face, head thrown back inside a glossy black biomechanical helmet, eyes wide, mouth slightly open, flooded in overwhelming emerald green light pouring through every seam and joint of her wet black armor, luminous green particles streaming around her face as if underwater, glowing green energy veins across the obsidian mech suit, ecstatic and terrified at once, girl and machine indistinguishable, intense bloom, sensory overload, harsh specular highlights, VHS film grain, painterly shading, Tsutomu Nihei and Yoshiaki Kawajiri inspired, transcendent, sublime."
+    }
+  },
+  "ko": {
+    "14": {
+      "title": "신규 사례: A photorealistic image of the cyborg woman from the",
+      "description": "X 공개 출처를 바탕으로 정리한 재사용 가능한 프롬프트 사례입니다. 구도와 제약 조건을 명확히 유지합니다.",
+      "content": "현지화 버전: 아래 영어 원본 프롬프트의 카메라, 타이밍, 주체 일관성, 제약 조건은 유지하고 표시 텍스트나 대사만 이 언어로 바꾸세요.\n\nCreate a photorealistic image of the cyborg woman from the second image driving the Tesla Cybertruck from the first image. Show her seated in the driver's seat of the Cybertruck, hands firmly on the steering wheel, her intense glowing red eyes lookin..."
+    },
+    "15": {
+      "title": "신규 사례: Ing. I actually used Grok Imagine on Quality mode",
+      "description": "X 공개 출처를 바탕으로 정리한 재사용 가능한 프롬프트 사례입니다. 구도와 제약 조건을 명확히 유지합니다.",
+      "content": "현지화 버전: 아래 영어 원본 프롬프트의 카메라, 타이밍, 주체 일관성, 제약 조건은 유지하고 표시 텍스트나 대사만 이 언어로 바꾸세요.\n\ning. I actually used Grok Imagine on Quality mode for my character sheet. I knew that my character not only embodies the element of water, but since the fight takes place in a body of water, he should be soaked in water from the start. If I use an image without the wetness, it completely breaks immersion as he will emerge from the water being completely dry. My initial prompt included Fang wearing a straw hat but I removed it later and also prompted for him to be wet. Prompt: Create a photorealistic character sheet for a character. Include a closeup portrait, which is left aligned, no borders, with a neutral expression and then also include a full view shot that shows the front, right side view, left side view and back of the character. - A legendary middle aged rugged lone chinese warrior in tattered straw-woven armor, tighter clothing like a ninja, dark royal blue fabric with gold and red detailing, large straw armor similar to a poncho, wielding a wooden ornate staff carved with a dark cylindrical decorative tip, his right hand, no other weapons. Neutral expression. On a white background. The character is completely wet. This character sheet can now be used with Seedance 2.0 Omni and I can prompt him into a variety of different locations with full consistency."
+    },
+    "16": {
+      "title": "신규 사례: Not many know this about me, but I m",
+      "description": "X 공개 출처를 바탕으로 정리한 재사용 가능한 프롬프트 사례입니다. 구도와 제약 조건을 명확히 유지합니다.",
+      "content": "현지화 버전: 아래 영어 원본 프롬프트의 카메라, 타이밍, 주체 일관성, 제약 조건은 유지하고 표시 텍스트나 대사만 이 언어로 바꾸세요.\n\nNot many know this about me, but I'm actually a published author of flash fiction stories. I'll link in the comments below. I haven't written in a long time, and I missed it. I hope you enjoy this flash fiction story about choosing purpose!"
+    },
+    "17": {
+      "title": "New case: Emerald biomechanical OVA anime portrait",
+      "description": "A Grok Imagine Image prompt for retro cel-anime body-machine fusion with intense green light and VHS grain.",
+      "content": "현지화 버전: 아래 영어 원본 프롬프트의 카메라, 구도, 주체 일관성, 제약을 유지하고 화면 텍스트나 대사만 이 언어로 바꾸세요.\n\n1990s dark OVA anime style, retro cel animation, a young woman with blunt black bangs and pale blood-spattered face, head thrown back inside a glossy black biomechanical helmet, eyes wide, mouth slightly open, flooded in overwhelming emerald green light pouring through every seam and joint of her wet black armor, luminous green particles streaming around her face as if underwater, glowing green energy veins across the obsidian mech suit, ecstatic and terrified at once, girl and machine indistinguishable, intense bloom, sensory overload, harsh specular highlights, VHS film grain, painterly shading, Tsutomu Nihei and Yoshiaki Kawajiri inspired, transcendent, sublime."
+    }
+  },
+  "es-ES": {
+    "14": {
+      "title": "Caso nuevo: A photorealistic image of the cyborg woman from the",
+      "description": "Caso reutilizable basado en una fuente pública de X, con dirección visual clara y restricciones de producción verificables.",
+      "content": "Versión localizada: conserva la cámara, los tiempos, la continuidad del sujeto y las restricciones del prompt fuente en inglés; cambia solo el texto visible o el diálogo a este idioma.\n\nCreate a photorealistic image of the cyborg woman from the second image driving the Tesla Cybertruck from the first image. Show her seated in the driver's seat of the Cybertruck, hands firmly on the steering wheel, her intense glowing red eyes lookin..."
+    },
+    "15": {
+      "title": "Caso nuevo: Ing. I actually used Grok Imagine on Quality mode",
+      "description": "Caso reutilizable basado en una fuente pública de X, con dirección visual clara y restricciones de producción verificables.",
+      "content": "Versión localizada: conserva la cámara, los tiempos, la continuidad del sujeto y las restricciones del prompt fuente en inglés; cambia solo el texto visible o el diálogo a este idioma.\n\ning. I actually used Grok Imagine on Quality mode for my character sheet. I knew that my character not only embodies the element of water, but since the fight takes place in a body of water, he should be soaked in water from the start. If I use an image without the wetness, it completely breaks immersion as he will emerge from the water being completely dry. My initial prompt included Fang wearing a straw hat but I removed it later and also prompted for him to be wet. Prompt: Create a photorealistic character sheet for a character. Include a closeup portrait, which is left aligned, no borders, with a neutral expression and then also include a full view shot that shows the front, right side view, left side view and back of the character. - A legendary middle aged rugged lone chinese warrior in tattered straw-woven armor, tighter clothing like a ninja, dark royal blue fabric with gold and red detailing, large straw armor similar to a poncho, wielding a wooden ornate staff carved with a dark cylindrical decorative tip, his right hand, no other weapons. Neutral expression. On a white background. The character is completely wet. This character sheet can now be used with Seedance 2.0 Omni and I can prompt him into a variety of different locations with full consistency."
+    },
+    "16": {
+      "title": "Caso nuevo: Not many know this about me, but I m",
+      "description": "Caso reutilizable basado en una fuente pública de X, con dirección visual clara y restricciones de producción verificables.",
+      "content": "Versión localizada: conserva la cámara, los tiempos, la continuidad del sujeto y las restricciones del prompt fuente en inglés; cambia solo el texto visible o el diálogo a este idioma.\n\nNot many know this about me, but I'm actually a published author of flash fiction stories. I'll link in the comments below. I haven't written in a long time, and I missed it. I hope you enjoy this flash fiction story about choosing purpose!"
+    },
+    "17": {
+      "title": "New case: Emerald biomechanical OVA anime portrait",
+      "description": "A Grok Imagine Image prompt for retro cel-anime body-machine fusion with intense green light and VHS grain.",
+      "content": "Localized version: preserve the camera, composition, subject consistency, and constraints from the English source prompt; adapt visible text or dialogue only.\n\n1990s dark OVA anime style, retro cel animation, a young woman with blunt black bangs and pale blood-spattered face, head thrown back inside a glossy black biomechanical helmet, eyes wide, mouth slightly open, flooded in overwhelming emerald green light pouring through every seam and joint of her wet black armor, luminous green particles streaming around her face as if underwater, glowing green energy veins across the obsidian mech suit, ecstatic and terrified at once, girl and machine indistinguishable, intense bloom, sensory overload, harsh specular highlights, VHS film grain, painterly shading, Tsutomu Nihei and Yoshiaki Kawajiri inspired, transcendent, sublime."
+    }
+  },
+  "es": {
+    "14": {
+      "title": "Caso nuevo: A photorealistic image of the cyborg woman from the",
+      "description": "Caso reutilizable basado en una fuente pública de X, con dirección visual clara y restricciones de producción verificables.",
+      "content": "Versión localizada: conserva la cámara, los tiempos, la continuidad del sujeto y las restricciones del prompt fuente en inglés; cambia solo el texto visible o el diálogo a este idioma.\n\nCreate a photorealistic image of the cyborg woman from the second image driving the Tesla Cybertruck from the first image. Show her seated in the driver's seat of the Cybertruck, hands firmly on the steering wheel, her intense glowing red eyes lookin..."
+    },
+    "15": {
+      "title": "Caso nuevo: Ing. I actually used Grok Imagine on Quality mode",
+      "description": "Caso reutilizable basado en una fuente pública de X, con dirección visual clara y restricciones de producción verificables.",
+      "content": "Versión localizada: conserva la cámara, los tiempos, la continuidad del sujeto y las restricciones del prompt fuente en inglés; cambia solo el texto visible o el diálogo a este idioma.\n\ning. I actually used Grok Imagine on Quality mode for my character sheet. I knew that my character not only embodies the element of water, but since the fight takes place in a body of water, he should be soaked in water from the start. If I use an image without the wetness, it completely breaks immersion as he will emerge from the water being completely dry. My initial prompt included Fang wearing a straw hat but I removed it later and also prompted for him to be wet. Prompt: Create a photorealistic character sheet for a character. Include a closeup portrait, which is left aligned, no borders, with a neutral expression and then also include a full view shot that shows the front, right side view, left side view and back of the character. - A legendary middle aged rugged lone chinese warrior in tattered straw-woven armor, tighter clothing like a ninja, dark royal blue fabric with gold and red detailing, large straw armor similar to a poncho, wielding a wooden ornate staff carved with a dark cylindrical decorative tip, his right hand, no other weapons. Neutral expression. On a white background. The character is completely wet. This character sheet can now be used with Seedance 2.0 Omni and I can prompt him into a variety of different locations with full consistency."
+    },
+    "16": {
+      "title": "Caso nuevo: Not many know this about me, but I m",
+      "description": "Caso reutilizable basado en una fuente pública de X, con dirección visual clara y restricciones de producción verificables.",
+      "content": "Versión localizada: conserva la cámara, los tiempos, la continuidad del sujeto y las restricciones del prompt fuente en inglés; cambia solo el texto visible o el diálogo a este idioma.\n\nNot many know this about me, but I'm actually a published author of flash fiction stories. I'll link in the comments below. I haven't written in a long time, and I missed it. I hope you enjoy this flash fiction story about choosing purpose!"
+    },
+    "17": {
+      "title": "New case: Emerald biomechanical OVA anime portrait",
+      "description": "A Grok Imagine Image prompt for retro cel-anime body-machine fusion with intense green light and VHS grain.",
+      "content": "Version localizada: conserva camara, composicion, continuidad del sujeto y restricciones del prompt fuente en ingles; adapta solo textos visibles o dialogos a este idioma.\n\n1990s dark OVA anime style, retro cel animation, a young woman with blunt black bangs and pale blood-spattered face, head thrown back inside a glossy black biomechanical helmet, eyes wide, mouth slightly open, flooded in overwhelming emerald green light pouring through every seam and joint of her wet black armor, luminous green particles streaming around her face as if underwater, glowing green energy veins across the obsidian mech suit, ecstatic and terrified at once, girl and machine indistinguishable, intense bloom, sensory overload, harsh specular highlights, VHS film grain, painterly shading, Tsutomu Nihei and Yoshiaki Kawajiri inspired, transcendent, sublime."
+    }
+  },
+  "de-DE": {
+    "14": {
+      "title": "Neuer Fall: A photorealistic image of the cyborg woman from the",
+      "description": "Wiederverwendbares Prompt-Beispiel aus einer öffentlichen X-Quelle mit klarer Bildführung und prüfbaren Vorgaben.",
+      "content": "Lokalisierte Fassung: Kamera, Timing, Motivkontinuität und Einschränkungen des englischen Quellprompts beibehalten; nur sichtbaren Text oder Dialog in diese Sprache übertragen.\n\nCreate a photorealistic image of the cyborg woman from the second image driving the Tesla Cybertruck from the first image. Show her seated in the driver's seat of the Cybertruck, hands firmly on the steering wheel, her intense glowing red eyes lookin..."
+    },
+    "15": {
+      "title": "Neuer Fall: Ing. I actually used Grok Imagine on Quality mode",
+      "description": "Wiederverwendbares Prompt-Beispiel aus einer öffentlichen X-Quelle mit klarer Bildführung und prüfbaren Vorgaben.",
+      "content": "Lokalisierte Fassung: Kamera, Timing, Motivkontinuität und Einschränkungen des englischen Quellprompts beibehalten; nur sichtbaren Text oder Dialog in diese Sprache übertragen.\n\ning. I actually used Grok Imagine on Quality mode for my character sheet. I knew that my character not only embodies the element of water, but since the fight takes place in a body of water, he should be soaked in water from the start. If I use an image without the wetness, it completely breaks immersion as he will emerge from the water being completely dry. My initial prompt included Fang wearing a straw hat but I removed it later and also prompted for him to be wet. Prompt: Create a photorealistic character sheet for a character. Include a closeup portrait, which is left aligned, no borders, with a neutral expression and then also include a full view shot that shows the front, right side view, left side view and back of the character. - A legendary middle aged rugged lone chinese warrior in tattered straw-woven armor, tighter clothing like a ninja, dark royal blue fabric with gold and red detailing, large straw armor similar to a poncho, wielding a wooden ornate staff carved with a dark cylindrical decorative tip, his right hand, no other weapons. Neutral expression. On a white background. The character is completely wet. This character sheet can now be used with Seedance 2.0 Omni and I can prompt him into a variety of different locations with full consistency."
+    },
+    "16": {
+      "title": "Neuer Fall: Not many know this about me, but I m",
+      "description": "Wiederverwendbares Prompt-Beispiel aus einer öffentlichen X-Quelle mit klarer Bildführung und prüfbaren Vorgaben.",
+      "content": "Lokalisierte Fassung: Kamera, Timing, Motivkontinuität und Einschränkungen des englischen Quellprompts beibehalten; nur sichtbaren Text oder Dialog in diese Sprache übertragen.\n\nNot many know this about me, but I'm actually a published author of flash fiction stories. I'll link in the comments below. I haven't written in a long time, and I missed it. I hope you enjoy this flash fiction story about choosing purpose!"
+    },
+    "17": {
+      "title": "New case: Emerald biomechanical OVA anime portrait",
+      "description": "A Grok Imagine Image prompt for retro cel-anime body-machine fusion with intense green light and VHS grain.",
+      "content": "Localized version: preserve the camera, composition, subject consistency, and constraints from the English source prompt; adapt visible text or dialogue only.\n\n1990s dark OVA anime style, retro cel animation, a young woman with blunt black bangs and pale blood-spattered face, head thrown back inside a glossy black biomechanical helmet, eyes wide, mouth slightly open, flooded in overwhelming emerald green light pouring through every seam and joint of her wet black armor, luminous green particles streaming around her face as if underwater, glowing green energy veins across the obsidian mech suit, ecstatic and terrified at once, girl and machine indistinguishable, intense bloom, sensory overload, harsh specular highlights, VHS film grain, painterly shading, Tsutomu Nihei and Yoshiaki Kawajiri inspired, transcendent, sublime."
+    }
+  },
+  "de": {
+    "14": {
+      "title": "Neuer Fall: A photorealistic image of the cyborg woman from the",
+      "description": "Wiederverwendbares Prompt-Beispiel aus einer öffentlichen X-Quelle mit klarer Bildführung und prüfbaren Vorgaben.",
+      "content": "Lokalisierte Fassung: Kamera, Timing, Motivkontinuität und Einschränkungen des englischen Quellprompts beibehalten; nur sichtbaren Text oder Dialog in diese Sprache übertragen.\n\nCreate a photorealistic image of the cyborg woman from the second image driving the Tesla Cybertruck from the first image. Show her seated in the driver's seat of the Cybertruck, hands firmly on the steering wheel, her intense glowing red eyes lookin..."
+    },
+    "15": {
+      "title": "Neuer Fall: Ing. I actually used Grok Imagine on Quality mode",
+      "description": "Wiederverwendbares Prompt-Beispiel aus einer öffentlichen X-Quelle mit klarer Bildführung und prüfbaren Vorgaben.",
+      "content": "Lokalisierte Fassung: Kamera, Timing, Motivkontinuität und Einschränkungen des englischen Quellprompts beibehalten; nur sichtbaren Text oder Dialog in diese Sprache übertragen.\n\ning. I actually used Grok Imagine on Quality mode for my character sheet. I knew that my character not only embodies the element of water, but since the fight takes place in a body of water, he should be soaked in water from the start. If I use an image without the wetness, it completely breaks immersion as he will emerge from the water being completely dry. My initial prompt included Fang wearing a straw hat but I removed it later and also prompted for him to be wet. Prompt: Create a photorealistic character sheet for a character. Include a closeup portrait, which is left aligned, no borders, with a neutral expression and then also include a full view shot that shows the front, right side view, left side view and back of the character. - A legendary middle aged rugged lone chinese warrior in tattered straw-woven armor, tighter clothing like a ninja, dark royal blue fabric with gold and red detailing, large straw armor similar to a poncho, wielding a wooden ornate staff carved with a dark cylindrical decorative tip, his right hand, no other weapons. Neutral expression. On a white background. The character is completely wet. This character sheet can now be used with Seedance 2.0 Omni and I can prompt him into a variety of different locations with full consistency."
+    },
+    "16": {
+      "title": "Neuer Fall: Not many know this about me, but I m",
+      "description": "Wiederverwendbares Prompt-Beispiel aus einer öffentlichen X-Quelle mit klarer Bildführung und prüfbaren Vorgaben.",
+      "content": "Lokalisierte Fassung: Kamera, Timing, Motivkontinuität und Einschränkungen des englischen Quellprompts beibehalten; nur sichtbaren Text oder Dialog in diese Sprache übertragen.\n\nNot many know this about me, but I'm actually a published author of flash fiction stories. I'll link in the comments below. I haven't written in a long time, and I missed it. I hope you enjoy this flash fiction story about choosing purpose!"
+    },
+    "17": {
+      "title": "New case: Emerald biomechanical OVA anime portrait",
+      "description": "A Grok Imagine Image prompt for retro cel-anime body-machine fusion with intense green light and VHS grain.",
+      "content": "Lokalisierte Fassung: Kamera, Komposition, Motivkontinuitaet und Einschraenkungen des englischen Quellprompts beibehalten; nur sichtbaren Text oder Dialog an diese Sprache anpassen.\n\n1990s dark OVA anime style, retro cel animation, a young woman with blunt black bangs and pale blood-spattered face, head thrown back inside a glossy black biomechanical helmet, eyes wide, mouth slightly open, flooded in overwhelming emerald green light pouring through every seam and joint of her wet black armor, luminous green particles streaming around her face as if underwater, glowing green energy veins across the obsidian mech suit, ecstatic and terrified at once, girl and machine indistinguishable, intense bloom, sensory overload, harsh specular highlights, VHS film grain, painterly shading, Tsutomu Nihei and Yoshiaki Kawajiri inspired, transcendent, sublime."
+    }
+  },
+  "fr-FR": {
+    "14": {
+      "title": "Nouveau cas : A photorealistic image of the cyborg woman from the",
+      "description": "Cas réutilisable issu d’une source publique sur X, avec une direction visuelle précise et des contraintes vérifiables.",
+      "content": "Version localisée : conserve la caméra, le rythme, la continuité du sujet et les contraintes du prompt source anglais ; adapte uniquement le texte visible ou les dialogues dans cette langue.\n\nCreate a photorealistic image of the cyborg woman from the second image driving the Tesla Cybertruck from the first image. Show her seated in the driver's seat of the Cybertruck, hands firmly on the steering wheel, her intense glowing red eyes lookin..."
+    },
+    "15": {
+      "title": "Nouveau cas : Ing. I actually used Grok Imagine on Quality mode",
+      "description": "Cas réutilisable issu d’une source publique sur X, avec une direction visuelle précise et des contraintes vérifiables.",
+      "content": "Version localisée : conserve la caméra, le rythme, la continuité du sujet et les contraintes du prompt source anglais ; adapte uniquement le texte visible ou les dialogues dans cette langue.\n\ning. I actually used Grok Imagine on Quality mode for my character sheet. I knew that my character not only embodies the element of water, but since the fight takes place in a body of water, he should be soaked in water from the start. If I use an image without the wetness, it completely breaks immersion as he will emerge from the water being completely dry. My initial prompt included Fang wearing a straw hat but I removed it later and also prompted for him to be wet. Prompt: Create a photorealistic character sheet for a character. Include a closeup portrait, which is left aligned, no borders, with a neutral expression and then also include a full view shot that shows the front, right side view, left side view and back of the character. - A legendary middle aged rugged lone chinese warrior in tattered straw-woven armor, tighter clothing like a ninja, dark royal blue fabric with gold and red detailing, large straw armor similar to a poncho, wielding a wooden ornate staff carved with a dark cylindrical decorative tip, his right hand, no other weapons. Neutral expression. On a white background. The character is completely wet. This character sheet can now be used with Seedance 2.0 Omni and I can prompt him into a variety of different locations with full consistency."
+    },
+    "16": {
+      "title": "Nouveau cas : Not many know this about me, but I m",
+      "description": "Cas réutilisable issu d’une source publique sur X, avec une direction visuelle précise et des contraintes vérifiables.",
+      "content": "Version localisée : conserve la caméra, le rythme, la continuité du sujet et les contraintes du prompt source anglais ; adapte uniquement le texte visible ou les dialogues dans cette langue.\n\nNot many know this about me, but I'm actually a published author of flash fiction stories. I'll link in the comments below. I haven't written in a long time, and I missed it. I hope you enjoy this flash fiction story about choosing purpose!"
+    },
+    "17": {
+      "title": "New case: Emerald biomechanical OVA anime portrait",
+      "description": "A Grok Imagine Image prompt for retro cel-anime body-machine fusion with intense green light and VHS grain.",
+      "content": "Localized version: preserve the camera, composition, subject consistency, and constraints from the English source prompt; adapt visible text or dialogue only.\n\n1990s dark OVA anime style, retro cel animation, a young woman with blunt black bangs and pale blood-spattered face, head thrown back inside a glossy black biomechanical helmet, eyes wide, mouth slightly open, flooded in overwhelming emerald green light pouring through every seam and joint of her wet black armor, luminous green particles streaming around her face as if underwater, glowing green energy veins across the obsidian mech suit, ecstatic and terrified at once, girl and machine indistinguishable, intense bloom, sensory overload, harsh specular highlights, VHS film grain, painterly shading, Tsutomu Nihei and Yoshiaki Kawajiri inspired, transcendent, sublime."
+    }
+  },
+  "fr": {
+    "14": {
+      "title": "Nouveau cas : A photorealistic image of the cyborg woman from the",
+      "description": "Cas réutilisable issu d’une source publique sur X, avec une direction visuelle précise et des contraintes vérifiables.",
+      "content": "Version localisée : conserve la caméra, le rythme, la continuité du sujet et les contraintes du prompt source anglais ; adapte uniquement le texte visible ou les dialogues dans cette langue.\n\nCreate a photorealistic image of the cyborg woman from the second image driving the Tesla Cybertruck from the first image. Show her seated in the driver's seat of the Cybertruck, hands firmly on the steering wheel, her intense glowing red eyes lookin..."
+    },
+    "15": {
+      "title": "Nouveau cas : Ing. I actually used Grok Imagine on Quality mode",
+      "description": "Cas réutilisable issu d’une source publique sur X, avec une direction visuelle précise et des contraintes vérifiables.",
+      "content": "Version localisée : conserve la caméra, le rythme, la continuité du sujet et les contraintes du prompt source anglais ; adapte uniquement le texte visible ou les dialogues dans cette langue.\n\ning. I actually used Grok Imagine on Quality mode for my character sheet. I knew that my character not only embodies the element of water, but since the fight takes place in a body of water, he should be soaked in water from the start. If I use an image without the wetness, it completely breaks immersion as he will emerge from the water being completely dry. My initial prompt included Fang wearing a straw hat but I removed it later and also prompted for him to be wet. Prompt: Create a photorealistic character sheet for a character. Include a closeup portrait, which is left aligned, no borders, with a neutral expression and then also include a full view shot that shows the front, right side view, left side view and back of the character. - A legendary middle aged rugged lone chinese warrior in tattered straw-woven armor, tighter clothing like a ninja, dark royal blue fabric with gold and red detailing, large straw armor similar to a poncho, wielding a wooden ornate staff carved with a dark cylindrical decorative tip, his right hand, no other weapons. Neutral expression. On a white background. The character is completely wet. This character sheet can now be used with Seedance 2.0 Omni and I can prompt him into a variety of different locations with full consistency."
+    },
+    "16": {
+      "title": "Nouveau cas : Not many know this about me, but I m",
+      "description": "Cas réutilisable issu d’une source publique sur X, avec une direction visuelle précise et des contraintes vérifiables.",
+      "content": "Version localisée : conserve la caméra, le rythme, la continuité du sujet et les contraintes du prompt source anglais ; adapte uniquement le texte visible ou les dialogues dans cette langue.\n\nNot many know this about me, but I'm actually a published author of flash fiction stories. I'll link in the comments below. I haven't written in a long time, and I missed it. I hope you enjoy this flash fiction story about choosing purpose!"
+    },
+    "17": {
+      "title": "New case: Emerald biomechanical OVA anime portrait",
+      "description": "A Grok Imagine Image prompt for retro cel-anime body-machine fusion with intense green light and VHS grain.",
+      "content": "Version localisee : conservez camera, composition, continuite du sujet et contraintes du prompt source anglais ; adaptez seulement le texte visible ou les dialogues.\n\n1990s dark OVA anime style, retro cel animation, a young woman with blunt black bangs and pale blood-spattered face, head thrown back inside a glossy black biomechanical helmet, eyes wide, mouth slightly open, flooded in overwhelming emerald green light pouring through every seam and joint of her wet black armor, luminous green particles streaming around her face as if underwater, glowing green energy veins across the obsidian mech suit, ecstatic and terrified at once, girl and machine indistinguishable, intense bloom, sensory overload, harsh specular highlights, VHS film grain, painterly shading, Tsutomu Nihei and Yoshiaki Kawajiri inspired, transcendent, sublime."
+    }
+  },
+  "it-IT": {
+    "14": {
+      "title": "Nuovo caso: A photorealistic image of the cyborg woman from the",
+      "description": "Caso riutilizzabile basato su una fonte pubblica di X, con direzione visiva chiara e vincoli verificabili.",
+      "content": "Versione localizzata: mantieni camera, tempi, continuità del soggetto e vincoli del prompt sorgente inglese; adatta solo testo visibile o dialoghi in questa lingua.\n\nCreate a photorealistic image of the cyborg woman from the second image driving the Tesla Cybertruck from the first image. Show her seated in the driver's seat of the Cybertruck, hands firmly on the steering wheel, her intense glowing red eyes lookin..."
+    },
+    "15": {
+      "title": "Nuovo caso: Ing. I actually used Grok Imagine on Quality mode",
+      "description": "Caso riutilizzabile basato su una fonte pubblica di X, con direzione visiva chiara e vincoli verificabili.",
+      "content": "Versione localizzata: mantieni camera, tempi, continuità del soggetto e vincoli del prompt sorgente inglese; adatta solo testo visibile o dialoghi in questa lingua.\n\ning. I actually used Grok Imagine on Quality mode for my character sheet. I knew that my character not only embodies the element of water, but since the fight takes place in a body of water, he should be soaked in water from the start. If I use an image without the wetness, it completely breaks immersion as he will emerge from the water being completely dry. My initial prompt included Fang wearing a straw hat but I removed it later and also prompted for him to be wet. Prompt: Create a photorealistic character sheet for a character. Include a closeup portrait, which is left aligned, no borders, with a neutral expression and then also include a full view shot that shows the front, right side view, left side view and back of the character. - A legendary middle aged rugged lone chinese warrior in tattered straw-woven armor, tighter clothing like a ninja, dark royal blue fabric with gold and red detailing, large straw armor similar to a poncho, wielding a wooden ornate staff carved with a dark cylindrical decorative tip, his right hand, no other weapons. Neutral expression. On a white background. The character is completely wet. This character sheet can now be used with Seedance 2.0 Omni and I can prompt him into a variety of different locations with full consistency."
+    },
+    "16": {
+      "title": "Nuovo caso: Not many know this about me, but I m",
+      "description": "Caso riutilizzabile basato su una fonte pubblica di X, con direzione visiva chiara e vincoli verificabili.",
+      "content": "Versione localizzata: mantieni camera, tempi, continuità del soggetto e vincoli del prompt sorgente inglese; adatta solo testo visibile o dialoghi in questa lingua.\n\nNot many know this about me, but I'm actually a published author of flash fiction stories. I'll link in the comments below. I haven't written in a long time, and I missed it. I hope you enjoy this flash fiction story about choosing purpose!"
+    },
+    "17": {
+      "title": "New case: Emerald biomechanical OVA anime portrait",
+      "description": "A Grok Imagine Image prompt for retro cel-anime body-machine fusion with intense green light and VHS grain.",
+      "content": "Localized version: preserve the camera, composition, subject consistency, and constraints from the English source prompt; adapt visible text or dialogue only.\n\n1990s dark OVA anime style, retro cel animation, a young woman with blunt black bangs and pale blood-spattered face, head thrown back inside a glossy black biomechanical helmet, eyes wide, mouth slightly open, flooded in overwhelming emerald green light pouring through every seam and joint of her wet black armor, luminous green particles streaming around her face as if underwater, glowing green energy veins across the obsidian mech suit, ecstatic and terrified at once, girl and machine indistinguishable, intense bloom, sensory overload, harsh specular highlights, VHS film grain, painterly shading, Tsutomu Nihei and Yoshiaki Kawajiri inspired, transcendent, sublime."
+    }
+  },
+  "it": {
+    "14": {
+      "title": "Nuovo caso: A photorealistic image of the cyborg woman from the",
+      "description": "Caso riutilizzabile basato su una fonte pubblica di X, con direzione visiva chiara e vincoli verificabili.",
+      "content": "Versione localizzata: mantieni camera, tempi, continuità del soggetto e vincoli del prompt sorgente inglese; adatta solo testo visibile o dialoghi in questa lingua.\n\nCreate a photorealistic image of the cyborg woman from the second image driving the Tesla Cybertruck from the first image. Show her seated in the driver's seat of the Cybertruck, hands firmly on the steering wheel, her intense glowing red eyes lookin..."
+    },
+    "15": {
+      "title": "Nuovo caso: Ing. I actually used Grok Imagine on Quality mode",
+      "description": "Caso riutilizzabile basato su una fonte pubblica di X, con direzione visiva chiara e vincoli verificabili.",
+      "content": "Versione localizzata: mantieni camera, tempi, continuità del soggetto e vincoli del prompt sorgente inglese; adatta solo testo visibile o dialoghi in questa lingua.\n\ning. I actually used Grok Imagine on Quality mode for my character sheet. I knew that my character not only embodies the element of water, but since the fight takes place in a body of water, he should be soaked in water from the start. If I use an image without the wetness, it completely breaks immersion as he will emerge from the water being completely dry. My initial prompt included Fang wearing a straw hat but I removed it later and also prompted for him to be wet. Prompt: Create a photorealistic character sheet for a character. Include a closeup portrait, which is left aligned, no borders, with a neutral expression and then also include a full view shot that shows the front, right side view, left side view and back of the character. - A legendary middle aged rugged lone chinese warrior in tattered straw-woven armor, tighter clothing like a ninja, dark royal blue fabric with gold and red detailing, large straw armor similar to a poncho, wielding a wooden ornate staff carved with a dark cylindrical decorative tip, his right hand, no other weapons. Neutral expression. On a white background. The character is completely wet. This character sheet can now be used with Seedance 2.0 Omni and I can prompt him into a variety of different locations with full consistency."
+    },
+    "16": {
+      "title": "Nuovo caso: Not many know this about me, but I m",
+      "description": "Caso riutilizzabile basato su una fonte pubblica di X, con direzione visiva chiara e vincoli verificabili.",
+      "content": "Versione localizzata: mantieni camera, tempi, continuità del soggetto e vincoli del prompt sorgente inglese; adatta solo testo visibile o dialoghi in questa lingua.\n\nNot many know this about me, but I'm actually a published author of flash fiction stories. I'll link in the comments below. I haven't written in a long time, and I missed it. I hope you enjoy this flash fiction story about choosing purpose!"
+    },
+    "17": {
+      "title": "New case: Emerald biomechanical OVA anime portrait",
+      "description": "A Grok Imagine Image prompt for retro cel-anime body-machine fusion with intense green light and VHS grain.",
+      "content": "Versione localizzata: mantieni camera, composizione, continuita del soggetto e vincoli del prompt inglese; adatta solo testi visibili o dialoghi a questa lingua.\n\n1990s dark OVA anime style, retro cel animation, a young woman with blunt black bangs and pale blood-spattered face, head thrown back inside a glossy black biomechanical helmet, eyes wide, mouth slightly open, flooded in overwhelming emerald green light pouring through every seam and joint of her wet black armor, luminous green particles streaming around her face as if underwater, glowing green energy veins across the obsidian mech suit, ecstatic and terrified at once, girl and machine indistinguishable, intense bloom, sensory overload, harsh specular highlights, VHS film grain, painterly shading, Tsutomu Nihei and Yoshiaki Kawajiri inspired, transcendent, sublime."
+    }
+  },
+  "pt-PT": {
+    "14": {
+      "title": "Novo caso: A photorealistic image of the cyborg woman from the",
+      "description": "Caso reutilizável baseado numa fonte pública do X, com direção visual clara e restrições verificáveis.",
+      "content": "Versão localizada: mantenha câmera, tempos, continuidade do sujeito e restrições do prompt-fonte em inglês; adapte apenas texto visível ou falas para este idioma.\n\nCreate a photorealistic image of the cyborg woman from the second image driving the Tesla Cybertruck from the first image. Show her seated in the driver's seat of the Cybertruck, hands firmly on the steering wheel, her intense glowing red eyes lookin..."
+    },
+    "15": {
+      "title": "Novo caso: Ing. I actually used Grok Imagine on Quality mode",
+      "description": "Caso reutilizável baseado numa fonte pública do X, com direção visual clara e restrições verificáveis.",
+      "content": "Versão localizada: mantenha câmera, tempos, continuidade do sujeito e restrições do prompt-fonte em inglês; adapte apenas texto visível ou falas para este idioma.\n\ning. I actually used Grok Imagine on Quality mode for my character sheet. I knew that my character not only embodies the element of water, but since the fight takes place in a body of water, he should be soaked in water from the start. If I use an image without the wetness, it completely breaks immersion as he will emerge from the water being completely dry. My initial prompt included Fang wearing a straw hat but I removed it later and also prompted for him to be wet. Prompt: Create a photorealistic character sheet for a character. Include a closeup portrait, which is left aligned, no borders, with a neutral expression and then also include a full view shot that shows the front, right side view, left side view and back of the character. - A legendary middle aged rugged lone chinese warrior in tattered straw-woven armor, tighter clothing like a ninja, dark royal blue fabric with gold and red detailing, large straw armor similar to a poncho, wielding a wooden ornate staff carved with a dark cylindrical decorative tip, his right hand, no other weapons. Neutral expression. On a white background. The character is completely wet. This character sheet can now be used with Seedance 2.0 Omni and I can prompt him into a variety of different locations with full consistency."
+    },
+    "16": {
+      "title": "Novo caso: Not many know this about me, but I m",
+      "description": "Caso reutilizável baseado numa fonte pública do X, com direção visual clara e restrições verificáveis.",
+      "content": "Versão localizada: mantenha câmera, tempos, continuidade do sujeito e restrições do prompt-fonte em inglês; adapte apenas texto visível ou falas para este idioma.\n\nNot many know this about me, but I'm actually a published author of flash fiction stories. I'll link in the comments below. I haven't written in a long time, and I missed it. I hope you enjoy this flash fiction story about choosing purpose!"
+    },
+    "17": {
+      "title": "New case: Emerald biomechanical OVA anime portrait",
+      "description": "A Grok Imagine Image prompt for retro cel-anime body-machine fusion with intense green light and VHS grain.",
+      "content": "Localized version: preserve the camera, composition, subject consistency, and constraints from the English source prompt; adapt visible text or dialogue only.\n\n1990s dark OVA anime style, retro cel animation, a young woman with blunt black bangs and pale blood-spattered face, head thrown back inside a glossy black biomechanical helmet, eyes wide, mouth slightly open, flooded in overwhelming emerald green light pouring through every seam and joint of her wet black armor, luminous green particles streaming around her face as if underwater, glowing green energy veins across the obsidian mech suit, ecstatic and terrified at once, girl and machine indistinguishable, intense bloom, sensory overload, harsh specular highlights, VHS film grain, painterly shading, Tsutomu Nihei and Yoshiaki Kawajiri inspired, transcendent, sublime."
+    }
+  },
+  "pt": {
+    "14": {
+      "title": "Novo caso: A photorealistic image of the cyborg woman from the",
+      "description": "Caso reutilizável baseado numa fonte pública do X, com direção visual clara e restrições verificáveis.",
+      "content": "Versão localizada: mantenha câmera, tempos, continuidade do sujeito e restrições do prompt-fonte em inglês; adapte apenas texto visível ou falas para este idioma.\n\nCreate a photorealistic image of the cyborg woman from the second image driving the Tesla Cybertruck from the first image. Show her seated in the driver's seat of the Cybertruck, hands firmly on the steering wheel, her intense glowing red eyes lookin..."
+    },
+    "15": {
+      "title": "Novo caso: Ing. I actually used Grok Imagine on Quality mode",
+      "description": "Caso reutilizável baseado numa fonte pública do X, com direção visual clara e restrições verificáveis.",
+      "content": "Versão localizada: mantenha câmera, tempos, continuidade do sujeito e restrições do prompt-fonte em inglês; adapte apenas texto visível ou falas para este idioma.\n\ning. I actually used Grok Imagine on Quality mode for my character sheet. I knew that my character not only embodies the element of water, but since the fight takes place in a body of water, he should be soaked in water from the start. If I use an image without the wetness, it completely breaks immersion as he will emerge from the water being completely dry. My initial prompt included Fang wearing a straw hat but I removed it later and also prompted for him to be wet. Prompt: Create a photorealistic character sheet for a character. Include a closeup portrait, which is left aligned, no borders, with a neutral expression and then also include a full view shot that shows the front, right side view, left side view and back of the character. - A legendary middle aged rugged lone chinese warrior in tattered straw-woven armor, tighter clothing like a ninja, dark royal blue fabric with gold and red detailing, large straw armor similar to a poncho, wielding a wooden ornate staff carved with a dark cylindrical decorative tip, his right hand, no other weapons. Neutral expression. On a white background. The character is completely wet. This character sheet can now be used with Seedance 2.0 Omni and I can prompt him into a variety of different locations with full consistency."
+    },
+    "16": {
+      "title": "Novo caso: Not many know this about me, but I m",
+      "description": "Caso reutilizável baseado numa fonte pública do X, com direção visual clara e restrições verificáveis.",
+      "content": "Versão localizada: mantenha câmera, tempos, continuidade do sujeito e restrições do prompt-fonte em inglês; adapte apenas texto visível ou falas para este idioma.\n\nNot many know this about me, but I'm actually a published author of flash fiction stories. I'll link in the comments below. I haven't written in a long time, and I missed it. I hope you enjoy this flash fiction story about choosing purpose!"
+    },
+    "17": {
+      "title": "New case: Emerald biomechanical OVA anime portrait",
+      "description": "A Grok Imagine Image prompt for retro cel-anime body-machine fusion with intense green light and VHS grain.",
+      "content": "Versao localizada: mantenha camera, composicao, continuidade do sujeito e restricoes do prompt fonte em ingles; adapte apenas texto visivel ou dialogo.\n\n1990s dark OVA anime style, retro cel animation, a young woman with blunt black bangs and pale blood-spattered face, head thrown back inside a glossy black biomechanical helmet, eyes wide, mouth slightly open, flooded in overwhelming emerald green light pouring through every seam and joint of her wet black armor, luminous green particles streaming around her face as if underwater, glowing green energy veins across the obsidian mech suit, ecstatic and terrified at once, girl and machine indistinguishable, intense bloom, sensory overload, harsh specular highlights, VHS film grain, painterly shading, Tsutomu Nihei and Yoshiaki Kawajiri inspired, transcendent, sublime."
+    }
+  },
+  "tr-TR": {
+    "14": {
+      "title": "Yeni örnek: A photorealistic image of the cyborg woman from the",
+      "description": "X üzerindeki açık bir kaynağa dayanan, net görsel yönlendirme ve doğrulanabilir üretim kısıtları içeren yeniden kullanılabilir prompt.",
+      "content": "Yerelleştirilmiş sürüm: İngilizce kaynak prompttaki kamera, zamanlama, özne sürekliliği ve kısıtları koru; yalnızca görünen metni veya diyaloğu bu dile uyarla.\n\nCreate a photorealistic image of the cyborg woman from the second image driving the Tesla Cybertruck from the first image. Show her seated in the driver's seat of the Cybertruck, hands firmly on the steering wheel, her intense glowing red eyes lookin..."
+    },
+    "15": {
+      "title": "Yeni örnek: Ing. I actually used Grok Imagine on Quality mode",
+      "description": "X üzerindeki açık bir kaynağa dayanan, net görsel yönlendirme ve doğrulanabilir üretim kısıtları içeren yeniden kullanılabilir prompt.",
+      "content": "Yerelleştirilmiş sürüm: İngilizce kaynak prompttaki kamera, zamanlama, özne sürekliliği ve kısıtları koru; yalnızca görünen metni veya diyaloğu bu dile uyarla.\n\ning. I actually used Grok Imagine on Quality mode for my character sheet. I knew that my character not only embodies the element of water, but since the fight takes place in a body of water, he should be soaked in water from the start. If I use an image without the wetness, it completely breaks immersion as he will emerge from the water being completely dry. My initial prompt included Fang wearing a straw hat but I removed it later and also prompted for him to be wet. Prompt: Create a photorealistic character sheet for a character. Include a closeup portrait, which is left aligned, no borders, with a neutral expression and then also include a full view shot that shows the front, right side view, left side view and back of the character. - A legendary middle aged rugged lone chinese warrior in tattered straw-woven armor, tighter clothing like a ninja, dark royal blue fabric with gold and red detailing, large straw armor similar to a poncho, wielding a wooden ornate staff carved with a dark cylindrical decorative tip, his right hand, no other weapons. Neutral expression. On a white background. The character is completely wet. This character sheet can now be used with Seedance 2.0 Omni and I can prompt him into a variety of different locations with full consistency."
+    },
+    "16": {
+      "title": "Yeni örnek: Not many know this about me, but I m",
+      "description": "X üzerindeki açık bir kaynağa dayanan, net görsel yönlendirme ve doğrulanabilir üretim kısıtları içeren yeniden kullanılabilir prompt.",
+      "content": "Yerelleştirilmiş sürüm: İngilizce kaynak prompttaki kamera, zamanlama, özne sürekliliği ve kısıtları koru; yalnızca görünen metni veya diyaloğu bu dile uyarla.\n\nNot many know this about me, but I'm actually a published author of flash fiction stories. I'll link in the comments below. I haven't written in a long time, and I missed it. I hope you enjoy this flash fiction story about choosing purpose!"
+    },
+    "17": {
+      "title": "New case: Emerald biomechanical OVA anime portrait",
+      "description": "A Grok Imagine Image prompt for retro cel-anime body-machine fusion with intense green light and VHS grain.",
+      "content": "Localized version: preserve the camera, composition, subject consistency, and constraints from the English source prompt; adapt visible text or dialogue only.\n\n1990s dark OVA anime style, retro cel animation, a young woman with blunt black bangs and pale blood-spattered face, head thrown back inside a glossy black biomechanical helmet, eyes wide, mouth slightly open, flooded in overwhelming emerald green light pouring through every seam and joint of her wet black armor, luminous green particles streaming around her face as if underwater, glowing green energy veins across the obsidian mech suit, ecstatic and terrified at once, girl and machine indistinguishable, intense bloom, sensory overload, harsh specular highlights, VHS film grain, painterly shading, Tsutomu Nihei and Yoshiaki Kawajiri inspired, transcendent, sublime."
+    }
+  },
+  "tr": {
+    "14": {
+      "title": "Yeni örnek: A photorealistic image of the cyborg woman from the",
+      "description": "X üzerindeki açık bir kaynağa dayanan, net görsel yönlendirme ve doğrulanabilir üretim kısıtları içeren yeniden kullanılabilir prompt.",
+      "content": "Yerelleştirilmiş sürüm: İngilizce kaynak prompttaki kamera, zamanlama, özne sürekliliği ve kısıtları koru; yalnızca görünen metni veya diyaloğu bu dile uyarla.\n\nCreate a photorealistic image of the cyborg woman from the second image driving the Tesla Cybertruck from the first image. Show her seated in the driver's seat of the Cybertruck, hands firmly on the steering wheel, her intense glowing red eyes lookin..."
+    },
+    "15": {
+      "title": "Yeni örnek: Ing. I actually used Grok Imagine on Quality mode",
+      "description": "X üzerindeki açık bir kaynağa dayanan, net görsel yönlendirme ve doğrulanabilir üretim kısıtları içeren yeniden kullanılabilir prompt.",
+      "content": "Yerelleştirilmiş sürüm: İngilizce kaynak prompttaki kamera, zamanlama, özne sürekliliği ve kısıtları koru; yalnızca görünen metni veya diyaloğu bu dile uyarla.\n\ning. I actually used Grok Imagine on Quality mode for my character sheet. I knew that my character not only embodies the element of water, but since the fight takes place in a body of water, he should be soaked in water from the start. If I use an image without the wetness, it completely breaks immersion as he will emerge from the water being completely dry. My initial prompt included Fang wearing a straw hat but I removed it later and also prompted for him to be wet. Prompt: Create a photorealistic character sheet for a character. Include a closeup portrait, which is left aligned, no borders, with a neutral expression and then also include a full view shot that shows the front, right side view, left side view and back of the character. - A legendary middle aged rugged lone chinese warrior in tattered straw-woven armor, tighter clothing like a ninja, dark royal blue fabric with gold and red detailing, large straw armor similar to a poncho, wielding a wooden ornate staff carved with a dark cylindrical decorative tip, his right hand, no other weapons. Neutral expression. On a white background. The character is completely wet. This character sheet can now be used with Seedance 2.0 Omni and I can prompt him into a variety of different locations with full consistency."
+    },
+    "16": {
+      "title": "Yeni örnek: Not many know this about me, but I m",
+      "description": "X üzerindeki açık bir kaynağa dayanan, net görsel yönlendirme ve doğrulanabilir üretim kısıtları içeren yeniden kullanılabilir prompt.",
+      "content": "Yerelleştirilmiş sürüm: İngilizce kaynak prompttaki kamera, zamanlama, özne sürekliliği ve kısıtları koru; yalnızca görünen metni veya diyaloğu bu dile uyarla.\n\nNot many know this about me, but I'm actually a published author of flash fiction stories. I'll link in the comments below. I haven't written in a long time, and I missed it. I hope you enjoy this flash fiction story about choosing purpose!"
+    },
+    "17": {
+      "title": "New case: Emerald biomechanical OVA anime portrait",
+      "description": "A Grok Imagine Image prompt for retro cel-anime body-machine fusion with intense green light and VHS grain.",
+      "content": "Yerellestirilmis surum: Ingilizce kaynak istemdeki kamera, kompozisyon, konu tutarliligi ve kisitlari koruyun; yalnizca gorunen metni veya diyalogu bu dile uyarlayin.\n\n1990s dark OVA anime style, retro cel animation, a young woman with blunt black bangs and pale blood-spattered face, head thrown back inside a glossy black biomechanical helmet, eyes wide, mouth slightly open, flooded in overwhelming emerald green light pouring through every seam and joint of her wet black armor, luminous green particles streaming around her face as if underwater, glowing green energy veins across the obsidian mech suit, ecstatic and terrified at once, girl and machine indistinguishable, intense bloom, sensory overload, harsh specular highlights, VHS film grain, painterly shading, Tsutomu Nihei and Yoshiaki Kawajiri inspired, transcendent, sublime."
+    }
+  },
+  "ar-SA": {
+    "14": {
+      "title": "حالة جديدة: A photorealistic image of the cyborg woman from the",
+      "description": "مثال قابل لإعادة الاستخدام مبني على مصدر عام من X، مع توجيه بصري واضح وقيود إنتاج قابلة للتحقق.",
+      "content": "نسخة محلية: حافظ على الكاميرا والتوقيت واتساق الموضوع وقيود الموجه الإنجليزي الأصلي؛ وبدّل فقط النص الظاهر أو الحوار إلى هذه اللغة.\n\nCreate a photorealistic image of the cyborg woman from the second image driving the Tesla Cybertruck from the first image. Show her seated in the driver's seat of the Cybertruck, hands firmly on the steering wheel, her intense glowing red eyes lookin..."
+    },
+    "15": {
+      "title": "حالة جديدة: Ing. I actually used Grok Imagine on Quality mode",
+      "description": "مثال قابل لإعادة الاستخدام مبني على مصدر عام من X، مع توجيه بصري واضح وقيود إنتاج قابلة للتحقق.",
+      "content": "نسخة محلية: حافظ على الكاميرا والتوقيت واتساق الموضوع وقيود الموجه الإنجليزي الأصلي؛ وبدّل فقط النص الظاهر أو الحوار إلى هذه اللغة.\n\ning. I actually used Grok Imagine on Quality mode for my character sheet. I knew that my character not only embodies the element of water, but since the fight takes place in a body of water, he should be soaked in water from the start. If I use an image without the wetness, it completely breaks immersion as he will emerge from the water being completely dry. My initial prompt included Fang wearing a straw hat but I removed it later and also prompted for him to be wet. Prompt: Create a photorealistic character sheet for a character. Include a closeup portrait, which is left aligned, no borders, with a neutral expression and then also include a full view shot that shows the front, right side view, left side view and back of the character. - A legendary middle aged rugged lone chinese warrior in tattered straw-woven armor, tighter clothing like a ninja, dark royal blue fabric with gold and red detailing, large straw armor similar to a poncho, wielding a wooden ornate staff carved with a dark cylindrical decorative tip, his right hand, no other weapons. Neutral expression. On a white background. The character is completely wet. This character sheet can now be used with Seedance 2.0 Omni and I can prompt him into a variety of different locations with full consistency."
+    },
+    "16": {
+      "title": "حالة جديدة: Not many know this about me, but I m",
+      "description": "مثال قابل لإعادة الاستخدام مبني على مصدر عام من X، مع توجيه بصري واضح وقيود إنتاج قابلة للتحقق.",
+      "content": "نسخة محلية: حافظ على الكاميرا والتوقيت واتساق الموضوع وقيود الموجه الإنجليزي الأصلي؛ وبدّل فقط النص الظاهر أو الحوار إلى هذه اللغة.\n\nNot many know this about me, but I'm actually a published author of flash fiction stories. I'll link in the comments below. I haven't written in a long time, and I missed it. I hope you enjoy this flash fiction story about choosing purpose!"
+    },
+    "17": {
+      "title": "New case: Emerald biomechanical OVA anime portrait",
+      "description": "A Grok Imagine Image prompt for retro cel-anime body-machine fusion with intense green light and VHS grain.",
+      "content": "Localized version: preserve the camera, composition, subject consistency, and constraints from the English source prompt; adapt visible text or dialogue only.\n\n1990s dark OVA anime style, retro cel animation, a young woman with blunt black bangs and pale blood-spattered face, head thrown back inside a glossy black biomechanical helmet, eyes wide, mouth slightly open, flooded in overwhelming emerald green light pouring through every seam and joint of her wet black armor, luminous green particles streaming around her face as if underwater, glowing green energy veins across the obsidian mech suit, ecstatic and terrified at once, girl and machine indistinguishable, intense bloom, sensory overload, harsh specular highlights, VHS film grain, painterly shading, Tsutomu Nihei and Yoshiaki Kawajiri inspired, transcendent, sublime."
+    }
+  },
+  "ar": {
+    "14": {
+      "title": "حالة جديدة: A photorealistic image of the cyborg woman from the",
+      "description": "مثال قابل لإعادة الاستخدام مبني على مصدر عام من X، مع توجيه بصري واضح وقيود إنتاج قابلة للتحقق.",
+      "content": "نسخة محلية: حافظ على الكاميرا والتوقيت واتساق الموضوع وقيود الموجه الإنجليزي الأصلي؛ وبدّل فقط النص الظاهر أو الحوار إلى هذه اللغة.\n\nCreate a photorealistic image of the cyborg woman from the second image driving the Tesla Cybertruck from the first image. Show her seated in the driver's seat of the Cybertruck, hands firmly on the steering wheel, her intense glowing red eyes lookin..."
+    },
+    "15": {
+      "title": "حالة جديدة: Ing. I actually used Grok Imagine on Quality mode",
+      "description": "مثال قابل لإعادة الاستخدام مبني على مصدر عام من X، مع توجيه بصري واضح وقيود إنتاج قابلة للتحقق.",
+      "content": "نسخة محلية: حافظ على الكاميرا والتوقيت واتساق الموضوع وقيود الموجه الإنجليزي الأصلي؛ وبدّل فقط النص الظاهر أو الحوار إلى هذه اللغة.\n\ning. I actually used Grok Imagine on Quality mode for my character sheet. I knew that my character not only embodies the element of water, but since the fight takes place in a body of water, he should be soaked in water from the start. If I use an image without the wetness, it completely breaks immersion as he will emerge from the water being completely dry. My initial prompt included Fang wearing a straw hat but I removed it later and also prompted for him to be wet. Prompt: Create a photorealistic character sheet for a character. Include a closeup portrait, which is left aligned, no borders, with a neutral expression and then also include a full view shot that shows the front, right side view, left side view and back of the character. - A legendary middle aged rugged lone chinese warrior in tattered straw-woven armor, tighter clothing like a ninja, dark royal blue fabric with gold and red detailing, large straw armor similar to a poncho, wielding a wooden ornate staff carved with a dark cylindrical decorative tip, his right hand, no other weapons. Neutral expression. On a white background. The character is completely wet. This character sheet can now be used with Seedance 2.0 Omni and I can prompt him into a variety of different locations with full consistency."
+    },
+    "16": {
+      "title": "حالة جديدة: Not many know this about me, but I m",
+      "description": "مثال قابل لإعادة الاستخدام مبني على مصدر عام من X، مع توجيه بصري واضح وقيود إنتاج قابلة للتحقق.",
+      "content": "نسخة محلية: حافظ على الكاميرا والتوقيت واتساق الموضوع وقيود الموجه الإنجليزي الأصلي؛ وبدّل فقط النص الظاهر أو الحوار إلى هذه اللغة.\n\nNot many know this about me, but I'm actually a published author of flash fiction stories. I'll link in the comments below. I haven't written in a long time, and I missed it. I hope you enjoy this flash fiction story about choosing purpose!"
+    },
+    "17": {
+      "title": "New case: Emerald biomechanical OVA anime portrait",
+      "description": "A Grok Imagine Image prompt for retro cel-anime body-machine fusion with intense green light and VHS grain.",
+      "content": "نسخة محلية: حافظ على الكاميرا والتكوين واتساق الموضوع وقيود الوصف الإنجليزي الأصلي، وغيّر فقط النص الظاهر أو الحوار إلى هذه اللغة.\n\n1990s dark OVA anime style, retro cel animation, a young woman with blunt black bangs and pale blood-spattered face, head thrown back inside a glossy black biomechanical helmet, eyes wide, mouth slightly open, flooded in overwhelming emerald green light pouring through every seam and joint of her wet black armor, luminous green particles streaming around her face as if underwater, glowing green energy veins across the obsidian mech suit, ecstatic and terrified at once, girl and machine indistinguishable, intense bloom, sensory overload, harsh specular highlights, VHS film grain, painterly shading, Tsutomu Nihei and Yoshiaki Kawajiri inspired, transcendent, sublime."
+    }
+  },
+  "ru-RU": {
+    "14": {
+      "title": "Новый пример: A photorealistic image of the cyborg woman from the",
+      "description": "Многоразовый пример промпта из открытого источника X с ясной визуальной задачей и проверяемыми ограничениями.",
+      "content": "Локализованная версия: сохраняйте камеру, тайминг, непрерывность объекта и ограничения английского исходного промпта; меняйте только видимый текст или реплики на этот язык.\n\nCreate a photorealistic image of the cyborg woman from the second image driving the Tesla Cybertruck from the first image. Show her seated in the driver's seat of the Cybertruck, hands firmly on the steering wheel, her intense glowing red eyes lookin..."
+    },
+    "15": {
+      "title": "Новый пример: Ing. I actually used Grok Imagine on Quality mode",
+      "description": "Многоразовый пример промпта из открытого источника X с ясной визуальной задачей и проверяемыми ограничениями.",
+      "content": "Локализованная версия: сохраняйте камеру, тайминг, непрерывность объекта и ограничения английского исходного промпта; меняйте только видимый текст или реплики на этот язык.\n\ning. I actually used Grok Imagine on Quality mode for my character sheet. I knew that my character not only embodies the element of water, but since the fight takes place in a body of water, he should be soaked in water from the start. If I use an image without the wetness, it completely breaks immersion as he will emerge from the water being completely dry. My initial prompt included Fang wearing a straw hat but I removed it later and also prompted for him to be wet. Prompt: Create a photorealistic character sheet for a character. Include a closeup portrait, which is left aligned, no borders, with a neutral expression and then also include a full view shot that shows the front, right side view, left side view and back of the character. - A legendary middle aged rugged lone chinese warrior in tattered straw-woven armor, tighter clothing like a ninja, dark royal blue fabric with gold and red detailing, large straw armor similar to a poncho, wielding a wooden ornate staff carved with a dark cylindrical decorative tip, his right hand, no other weapons. Neutral expression. On a white background. The character is completely wet. This character sheet can now be used with Seedance 2.0 Omni and I can prompt him into a variety of different locations with full consistency."
+    },
+    "16": {
+      "title": "Новый пример: Not many know this about me, but I m",
+      "description": "Многоразовый пример промпта из открытого источника X с ясной визуальной задачей и проверяемыми ограничениями.",
+      "content": "Локализованная версия: сохраняйте камеру, тайминг, непрерывность объекта и ограничения английского исходного промпта; меняйте только видимый текст или реплики на этот язык.\n\nNot many know this about me, but I'm actually a published author of flash fiction stories. I'll link in the comments below. I haven't written in a long time, and I missed it. I hope you enjoy this flash fiction story about choosing purpose!"
+    },
+    "17": {
+      "title": "New case: Emerald biomechanical OVA anime portrait",
+      "description": "A Grok Imagine Image prompt for retro cel-anime body-machine fusion with intense green light and VHS grain.",
+      "content": "Localized version: preserve the camera, composition, subject consistency, and constraints from the English source prompt; adapt visible text or dialogue only.\n\n1990s dark OVA anime style, retro cel animation, a young woman with blunt black bangs and pale blood-spattered face, head thrown back inside a glossy black biomechanical helmet, eyes wide, mouth slightly open, flooded in overwhelming emerald green light pouring through every seam and joint of her wet black armor, luminous green particles streaming around her face as if underwater, glowing green energy veins across the obsidian mech suit, ecstatic and terrified at once, girl and machine indistinguishable, intense bloom, sensory overload, harsh specular highlights, VHS film grain, painterly shading, Tsutomu Nihei and Yoshiaki Kawajiri inspired, transcendent, sublime."
+    }
+  },
+  "ru": {
+    "14": {
+      "title": "Новый пример: A photorealistic image of the cyborg woman from the",
+      "description": "Многоразовый пример промпта из открытого источника X с ясной визуальной задачей и проверяемыми ограничениями.",
+      "content": "Локализованная версия: сохраняйте камеру, тайминг, непрерывность объекта и ограничения английского исходного промпта; меняйте только видимый текст или реплики на этот язык.\n\nCreate a photorealistic image of the cyborg woman from the second image driving the Tesla Cybertruck from the first image. Show her seated in the driver's seat of the Cybertruck, hands firmly on the steering wheel, her intense glowing red eyes lookin..."
+    },
+    "15": {
+      "title": "Новый пример: Ing. I actually used Grok Imagine on Quality mode",
+      "description": "Многоразовый пример промпта из открытого источника X с ясной визуальной задачей и проверяемыми ограничениями.",
+      "content": "Локализованная версия: сохраняйте камеру, тайминг, непрерывность объекта и ограничения английского исходного промпта; меняйте только видимый текст или реплики на этот язык.\n\ning. I actually used Grok Imagine on Quality mode for my character sheet. I knew that my character not only embodies the element of water, but since the fight takes place in a body of water, he should be soaked in water from the start. If I use an image without the wetness, it completely breaks immersion as he will emerge from the water being completely dry. My initial prompt included Fang wearing a straw hat but I removed it later and also prompted for him to be wet. Prompt: Create a photorealistic character sheet for a character. Include a closeup portrait, which is left aligned, no borders, with a neutral expression and then also include a full view shot that shows the front, right side view, left side view and back of the character. - A legendary middle aged rugged lone chinese warrior in tattered straw-woven armor, tighter clothing like a ninja, dark royal blue fabric with gold and red detailing, large straw armor similar to a poncho, wielding a wooden ornate staff carved with a dark cylindrical decorative tip, his right hand, no other weapons. Neutral expression. On a white background. The character is completely wet. This character sheet can now be used with Seedance 2.0 Omni and I can prompt him into a variety of different locations with full consistency."
+    },
+    "16": {
+      "title": "Новый пример: Not many know this about me, but I m",
+      "description": "Многоразовый пример промпта из открытого источника X с ясной визуальной задачей и проверяемыми ограничениями.",
+      "content": "Локализованная версия: сохраняйте камеру, тайминг, непрерывность объекта и ограничения английского исходного промпта; меняйте только видимый текст или реплики на этот язык.\n\nNot many know this about me, but I'm actually a published author of flash fiction stories. I'll link in the comments below. I haven't written in a long time, and I missed it. I hope you enjoy this flash fiction story about choosing purpose!"
+    },
+    "17": {
+      "title": "New case: Emerald biomechanical OVA anime portrait",
+      "description": "A Grok Imagine Image prompt for retro cel-anime body-machine fusion with intense green light and VHS grain.",
+      "content": "Локализованная версия: сохраните камеру, композицию, непрерывность объекта и ограничения английского исходного промпта; адаптируйте только видимый текст или диалог.\n\n1990s dark OVA anime style, retro cel animation, a young woman with blunt black bangs and pale blood-spattered face, head thrown back inside a glossy black biomechanical helmet, eyes wide, mouth slightly open, flooded in overwhelming emerald green light pouring through every seam and joint of her wet black armor, luminous green particles streaming around her face as if underwater, glowing green energy veins across the obsidian mech suit, ecstatic and terrified at once, girl and machine indistinguishable, intense bloom, sensory overload, harsh specular highlights, VHS film grain, painterly shading, Tsutomu Nihei and Yoshiaki Kawajiri inspired, transcendent, sublime."
+    }
+  },
+  "nl-NL": {
+    "14": {
+      "title": "Nieuwe case: A photorealistic image of the cyborg woman from the",
+      "description": "Herbruikbare promptcase uit een openbare X-bron, met duidelijke visuele regie en controleerbare productie-eisen.",
+      "content": "Gelokaliseerde versie: behoud camera, timing, onderwerpcontinuiteit en beperkingen van de Engelse bronprompt; pas alleen zichtbare tekst of dialoog aan naar deze taal.\n\nCreate a photorealistic image of the cyborg woman from the second image driving the Tesla Cybertruck from the first image. Show her seated in the driver's seat of the Cybertruck, hands firmly on the steering wheel, her intense glowing red eyes lookin..."
+    },
+    "15": {
+      "title": "Nieuwe case: Ing. I actually used Grok Imagine on Quality mode",
+      "description": "Herbruikbare promptcase uit een openbare X-bron, met duidelijke visuele regie en controleerbare productie-eisen.",
+      "content": "Gelokaliseerde versie: behoud camera, timing, onderwerpcontinuiteit en beperkingen van de Engelse bronprompt; pas alleen zichtbare tekst of dialoog aan naar deze taal.\n\ning. I actually used Grok Imagine on Quality mode for my character sheet. I knew that my character not only embodies the element of water, but since the fight takes place in a body of water, he should be soaked in water from the start. If I use an image without the wetness, it completely breaks immersion as he will emerge from the water being completely dry. My initial prompt included Fang wearing a straw hat but I removed it later and also prompted for him to be wet. Prompt: Create a photorealistic character sheet for a character. Include a closeup portrait, which is left aligned, no borders, with a neutral expression and then also include a full view shot that shows the front, right side view, left side view and back of the character. - A legendary middle aged rugged lone chinese warrior in tattered straw-woven armor, tighter clothing like a ninja, dark royal blue fabric with gold and red detailing, large straw armor similar to a poncho, wielding a wooden ornate staff carved with a dark cylindrical decorative tip, his right hand, no other weapons. Neutral expression. On a white background. The character is completely wet. This character sheet can now be used with Seedance 2.0 Omni and I can prompt him into a variety of different locations with full consistency."
+    },
+    "16": {
+      "title": "Nieuwe case: Not many know this about me, but I m",
+      "description": "Herbruikbare promptcase uit een openbare X-bron, met duidelijke visuele regie en controleerbare productie-eisen.",
+      "content": "Gelokaliseerde versie: behoud camera, timing, onderwerpcontinuiteit en beperkingen van de Engelse bronprompt; pas alleen zichtbare tekst of dialoog aan naar deze taal.\n\nNot many know this about me, but I'm actually a published author of flash fiction stories. I'll link in the comments below. I haven't written in a long time, and I missed it. I hope you enjoy this flash fiction story about choosing purpose!"
+    },
+    "17": {
+      "title": "New case: Emerald biomechanical OVA anime portrait",
+      "description": "A Grok Imagine Image prompt for retro cel-anime body-machine fusion with intense green light and VHS grain.",
+      "content": "Localized version: preserve the camera, composition, subject consistency, and constraints from the English source prompt; adapt visible text or dialogue only.\n\n1990s dark OVA anime style, retro cel animation, a young woman with blunt black bangs and pale blood-spattered face, head thrown back inside a glossy black biomechanical helmet, eyes wide, mouth slightly open, flooded in overwhelming emerald green light pouring through every seam and joint of her wet black armor, luminous green particles streaming around her face as if underwater, glowing green energy veins across the obsidian mech suit, ecstatic and terrified at once, girl and machine indistinguishable, intense bloom, sensory overload, harsh specular highlights, VHS film grain, painterly shading, Tsutomu Nihei and Yoshiaki Kawajiri inspired, transcendent, sublime."
+    }
+  },
+  "nl": {
+    "14": {
+      "title": "Nieuwe case: A photorealistic image of the cyborg woman from the",
+      "description": "Herbruikbare promptcase uit een openbare X-bron, met duidelijke visuele regie en controleerbare productie-eisen.",
+      "content": "Gelokaliseerde versie: behoud camera, timing, onderwerpcontinuiteit en beperkingen van de Engelse bronprompt; pas alleen zichtbare tekst of dialoog aan naar deze taal.\n\nCreate a photorealistic image of the cyborg woman from the second image driving the Tesla Cybertruck from the first image. Show her seated in the driver's seat of the Cybertruck, hands firmly on the steering wheel, her intense glowing red eyes lookin..."
+    },
+    "15": {
+      "title": "Nieuwe case: Ing. I actually used Grok Imagine on Quality mode",
+      "description": "Herbruikbare promptcase uit een openbare X-bron, met duidelijke visuele regie en controleerbare productie-eisen.",
+      "content": "Gelokaliseerde versie: behoud camera, timing, onderwerpcontinuiteit en beperkingen van de Engelse bronprompt; pas alleen zichtbare tekst of dialoog aan naar deze taal.\n\ning. I actually used Grok Imagine on Quality mode for my character sheet. I knew that my character not only embodies the element of water, but since the fight takes place in a body of water, he should be soaked in water from the start. If I use an image without the wetness, it completely breaks immersion as he will emerge from the water being completely dry. My initial prompt included Fang wearing a straw hat but I removed it later and also prompted for him to be wet. Prompt: Create a photorealistic character sheet for a character. Include a closeup portrait, which is left aligned, no borders, with a neutral expression and then also include a full view shot that shows the front, right side view, left side view and back of the character. - A legendary middle aged rugged lone chinese warrior in tattered straw-woven armor, tighter clothing like a ninja, dark royal blue fabric with gold and red detailing, large straw armor similar to a poncho, wielding a wooden ornate staff carved with a dark cylindrical decorative tip, his right hand, no other weapons. Neutral expression. On a white background. The character is completely wet. This character sheet can now be used with Seedance 2.0 Omni and I can prompt him into a variety of different locations with full consistency."
+    },
+    "16": {
+      "title": "Nieuwe case: Not many know this about me, but I m",
+      "description": "Herbruikbare promptcase uit een openbare X-bron, met duidelijke visuele regie en controleerbare productie-eisen.",
+      "content": "Gelokaliseerde versie: behoud camera, timing, onderwerpcontinuiteit en beperkingen van de Engelse bronprompt; pas alleen zichtbare tekst of dialoog aan naar deze taal.\n\nNot many know this about me, but I'm actually a published author of flash fiction stories. I'll link in the comments below. I haven't written in a long time, and I missed it. I hope you enjoy this flash fiction story about choosing purpose!"
+    },
+    "17": {
+      "title": "New case: Emerald biomechanical OVA anime portrait",
+      "description": "A Grok Imagine Image prompt for retro cel-anime body-machine fusion with intense green light and VHS grain.",
+      "content": "Gelokaliseerde versie: behoud camera, compositie, onderwerpcontinuiteit en beperkingen van de Engelse bronprompt; pas alleen zichtbare tekst of dialoog aan.\n\n1990s dark OVA anime style, retro cel animation, a young woman with blunt black bangs and pale blood-spattered face, head thrown back inside a glossy black biomechanical helmet, eyes wide, mouth slightly open, flooded in overwhelming emerald green light pouring through every seam and joint of her wet black armor, luminous green particles streaming around her face as if underwater, glowing green energy veins across the obsidian mech suit, ecstatic and terrified at once, girl and machine indistinguishable, intense bloom, sensory overload, harsh specular highlights, VHS film grain, painterly shading, Tsutomu Nihei and Yoshiaki Kawajiri inspired, transcendent, sublime."
+    }
+  },
+  "pl-PL": {
+    "14": {
+      "title": "Nowy przypadek: A photorealistic image of the cyborg woman from the",
+      "description": "Wielokrotnego użytku przykład promptu z publicznego źródła X, z jasnym kierunkiem wizualnym i sprawdzalnymi ograniczeniami.",
+      "content": "Wersja lokalna: zachowaj kamerę, timing, spójność tematu i ograniczenia angielskiego promptu źródłowego; zmień tylko widoczny tekst lub dialog na ten język.\n\nCreate a photorealistic image of the cyborg woman from the second image driving the Tesla Cybertruck from the first image. Show her seated in the driver's seat of the Cybertruck, hands firmly on the steering wheel, her intense glowing red eyes lookin..."
+    },
+    "15": {
+      "title": "Nowy przypadek: Ing. I actually used Grok Imagine on Quality mode",
+      "description": "Wielokrotnego użytku przykład promptu z publicznego źródła X, z jasnym kierunkiem wizualnym i sprawdzalnymi ograniczeniami.",
+      "content": "Wersja lokalna: zachowaj kamerę, timing, spójność tematu i ograniczenia angielskiego promptu źródłowego; zmień tylko widoczny tekst lub dialog na ten język.\n\ning. I actually used Grok Imagine on Quality mode for my character sheet. I knew that my character not only embodies the element of water, but since the fight takes place in a body of water, he should be soaked in water from the start. If I use an image without the wetness, it completely breaks immersion as he will emerge from the water being completely dry. My initial prompt included Fang wearing a straw hat but I removed it later and also prompted for him to be wet. Prompt: Create a photorealistic character sheet for a character. Include a closeup portrait, which is left aligned, no borders, with a neutral expression and then also include a full view shot that shows the front, right side view, left side view and back of the character. - A legendary middle aged rugged lone chinese warrior in tattered straw-woven armor, tighter clothing like a ninja, dark royal blue fabric with gold and red detailing, large straw armor similar to a poncho, wielding a wooden ornate staff carved with a dark cylindrical decorative tip, his right hand, no other weapons. Neutral expression. On a white background. The character is completely wet. This character sheet can now be used with Seedance 2.0 Omni and I can prompt him into a variety of different locations with full consistency."
+    },
+    "16": {
+      "title": "Nowy przypadek: Not many know this about me, but I m",
+      "description": "Wielokrotnego użytku przykład promptu z publicznego źródła X, z jasnym kierunkiem wizualnym i sprawdzalnymi ograniczeniami.",
+      "content": "Wersja lokalna: zachowaj kamerę, timing, spójność tematu i ograniczenia angielskiego promptu źródłowego; zmień tylko widoczny tekst lub dialog na ten język.\n\nNot many know this about me, but I'm actually a published author of flash fiction stories. I'll link in the comments below. I haven't written in a long time, and I missed it. I hope you enjoy this flash fiction story about choosing purpose!"
+    },
+    "17": {
+      "title": "New case: Emerald biomechanical OVA anime portrait",
+      "description": "A Grok Imagine Image prompt for retro cel-anime body-machine fusion with intense green light and VHS grain.",
+      "content": "Localized version: preserve the camera, composition, subject consistency, and constraints from the English source prompt; adapt visible text or dialogue only.\n\n1990s dark OVA anime style, retro cel animation, a young woman with blunt black bangs and pale blood-spattered face, head thrown back inside a glossy black biomechanical helmet, eyes wide, mouth slightly open, flooded in overwhelming emerald green light pouring through every seam and joint of her wet black armor, luminous green particles streaming around her face as if underwater, glowing green energy veins across the obsidian mech suit, ecstatic and terrified at once, girl and machine indistinguishable, intense bloom, sensory overload, harsh specular highlights, VHS film grain, painterly shading, Tsutomu Nihei and Yoshiaki Kawajiri inspired, transcendent, sublime."
+    }
+  },
+  "pl": {
+    "14": {
+      "title": "Nowy przypadek: A photorealistic image of the cyborg woman from the",
+      "description": "Wielokrotnego użytku przykład promptu z publicznego źródła X, z jasnym kierunkiem wizualnym i sprawdzalnymi ograniczeniami.",
+      "content": "Wersja lokalna: zachowaj kamerę, timing, spójność tematu i ograniczenia angielskiego promptu źródłowego; zmień tylko widoczny tekst lub dialog na ten język.\n\nCreate a photorealistic image of the cyborg woman from the second image driving the Tesla Cybertruck from the first image. Show her seated in the driver's seat of the Cybertruck, hands firmly on the steering wheel, her intense glowing red eyes lookin..."
+    },
+    "15": {
+      "title": "Nowy przypadek: Ing. I actually used Grok Imagine on Quality mode",
+      "description": "Wielokrotnego użytku przykład promptu z publicznego źródła X, z jasnym kierunkiem wizualnym i sprawdzalnymi ograniczeniami.",
+      "content": "Wersja lokalna: zachowaj kamerę, timing, spójność tematu i ograniczenia angielskiego promptu źródłowego; zmień tylko widoczny tekst lub dialog na ten język.\n\ning. I actually used Grok Imagine on Quality mode for my character sheet. I knew that my character not only embodies the element of water, but since the fight takes place in a body of water, he should be soaked in water from the start. If I use an image without the wetness, it completely breaks immersion as he will emerge from the water being completely dry. My initial prompt included Fang wearing a straw hat but I removed it later and also prompted for him to be wet. Prompt: Create a photorealistic character sheet for a character. Include a closeup portrait, which is left aligned, no borders, with a neutral expression and then also include a full view shot that shows the front, right side view, left side view and back of the character. - A legendary middle aged rugged lone chinese warrior in tattered straw-woven armor, tighter clothing like a ninja, dark royal blue fabric with gold and red detailing, large straw armor similar to a poncho, wielding a wooden ornate staff carved with a dark cylindrical decorative tip, his right hand, no other weapons. Neutral expression. On a white background. The character is completely wet. This character sheet can now be used with Seedance 2.0 Omni and I can prompt him into a variety of different locations with full consistency."
+    },
+    "16": {
+      "title": "Nowy przypadek: Not many know this about me, but I m",
+      "description": "Wielokrotnego użytku przykład promptu z publicznego źródła X, z jasnym kierunkiem wizualnym i sprawdzalnymi ograniczeniami.",
+      "content": "Wersja lokalna: zachowaj kamerę, timing, spójność tematu i ograniczenia angielskiego promptu źródłowego; zmień tylko widoczny tekst lub dialog na ten język.\n\nNot many know this about me, but I'm actually a published author of flash fiction stories. I'll link in the comments below. I haven't written in a long time, and I missed it. I hope you enjoy this flash fiction story about choosing purpose!"
+    },
+    "17": {
+      "title": "New case: Emerald biomechanical OVA anime portrait",
+      "description": "A Grok Imagine Image prompt for retro cel-anime body-machine fusion with intense green light and VHS grain.",
+      "content": "Wersja lokalna: zachowaj kamere, kompozycje, spojnosc obiektu i ograniczenia angielskiego promptu; dostosuj tylko widoczny tekst lub dialog.\n\n1990s dark OVA anime style, retro cel animation, a young woman with blunt black bangs and pale blood-spattered face, head thrown back inside a glossy black biomechanical helmet, eyes wide, mouth slightly open, flooded in overwhelming emerald green light pouring through every seam and joint of her wet black armor, luminous green particles streaming around her face as if underwater, glowing green energy veins across the obsidian mech suit, ecstatic and terrified at once, girl and machine indistinguishable, intense bloom, sensory overload, harsh specular highlights, VHS film grain, painterly shading, Tsutomu Nihei and Yoshiaki Kawajiri inspired, transcendent, sublime."
+    }
+  }
+}
