@@ -713,5 +713,47 @@
       "url": "https://video.twimg.com/amplify_video/2074558045066231808/vid/avc1/1904x1072/bB44r3PLXaCloZAm.mp4?tag=25",
       "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2074558045066231808/img/hCFAFa6GHDcJSm4M.jpg"
     }
+  },
+  {
+    "id": 18,
+    "model": "Grok Imagine Image",
+    "title": "Tellicherry pepper mashed potatoes",
+    "description": "A source-backed Grok Imagine Image food study that turns ingredient provenance into a warm, richly lit editorial still life.",
+    "content": "Researching sailors and spices last night and ended up on pepper! so then I dreamed about the world's finest mashed potatoes; of course, the foodie in me had to whip them up to see my dreams:\nA rustic ceramic bowl filled with creamy, golden mashed potatoes made from the world’s best Irish potatoes, the richest milk from County Kerry cows, the finest hand-churned butter, Tellicherry peppercorns from India, and pure flaky sea salt from the Atlantic coast. The potatoes are swirled with melted butter and generously topped with cracked Tellicherry pepper and sea salt flakes. Warm, inviting, photorealistic, food photography style, soft golden lighting.",
+    "sourceLink": "https://x.com/AliciaMcnatt/status/2084243306624557106",
+    "sourcePublishedAt": "2026-08-03T11:41:42.000Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/media/HOy4PWDWIAAXwAx.jpg"
+    ],
+    "author": {
+      "name": "Alicia McNatt",
+      "link": "https://x.com/AliciaMcnatt"
+    },
+    "language": "en",
+    "featured": false,
+    "sort": 18,
+    "needReferenceImages": false,
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2084243306624557106",
+      "prompt_source": "tweet_text_prompt",
+      "model_evidence": "grok-imagine-image",
+      "collected_at": "2026-08-03",
+      "retweetCount": 0,
+      "replyCount": 1,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "viewCount": 24,
+      "bookmarkCount": 0
+    },
+    "imageCategories": {
+      "workflows": [
+        {
+          "id": 102,
+          "title": "Product Photography",
+          "slug": "product-photography"
+        }
+      ]
+    }
   }
 ]
