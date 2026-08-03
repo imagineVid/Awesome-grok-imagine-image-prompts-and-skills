@@ -755,5 +755,48 @@
         }
       ]
     }
+  },
+  {
+    "id": 19,
+    "model": "Grok Imagine Image",
+    "title": "Scientifically grounded Mars Starship landing scene",
+    "description": "A source-backed Grok Imagine Image hard-sci-fi brief that prioritizes believable infrastructure, material scale, daylight, and scientific plausibility over fantasy spectacle.",
+    "content": "Create a highly realistic hard-science-fiction image on Mars. Show a SpaceX Starship landing on a circular concrete pad. Near the pad, place white fuel tanks lying on the ground as a practical depot for the liquid oxygen and methane used by the Starship. Include a large, believable pressurized habitat dome in the background. It is daytime. Make every surface, shadow, material, scale relationship, and atmospheric condition as realistic and scientifically plausible as possible. Avoid fantasy architecture, invented signage, impossible reflections, cartoon styling, and decorative space scenery.",
+    "sourceLink": "https://x.com/MSCsExosomes/status/2084255346932211994",
+    "sourcePublishedAt": "2026-08-03T12:29:32.000Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/media/HOzCU2taUAAeXoJ.jpg",
+      "https://pbs.twimg.com/media/HOzCkjZaUAAvzWf.jpg"
+    ],
+    "author": {
+      "name": "mesenchymal stem cells/exosomes",
+      "link": "https://x.com/MSCsExosomes"
+    },
+    "language": "en",
+    "featured": false,
+    "sort": 19,
+    "needReferenceImages": false,
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2084255346932211994",
+      "prompt_source": "tweet_text_prompt",
+      "model_evidence": "grok-imagine-image",
+      "collected_at": "2026-08-03",
+      "retweetCount": 0,
+      "replyCount": 0,
+      "likeCount": 0,
+      "quoteCount": 1,
+      "viewCount": 21,
+      "bookmarkCount": 0
+    },
+    "imageCategories": {
+      "workflows": [
+        {
+          "id": 102,
+          "title": "Product Photography",
+          "slug": "product-photography"
+        }
+      ]
+    }
   }
 ]
