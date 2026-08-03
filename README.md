@@ -47,7 +47,7 @@ Grok Imagine Image is xAI's image-generation and image-editing model. Useful pro
 
 ## Verified community cases
 
-| Collection status | 12 verified cases |
+| Collection status | 13 verified cases |
 |---|---:|
 | Last generated | 2026-07-19 |
 
@@ -385,6 +385,30 @@ Photorealistic high-resolution photograph of an adult Scandinavian fashion model
 - **Canonical post:** [X / Twitter](https://x.com/tealdog2/status/2076881249457799506)
 - **Published:** 2026-07-14
 - **Category:** Portrait & Character Design
+
+**[Use this prompt on ImagineVid](https://imaginevid.io/grok-image)**
+
+---
+
+
+### 20. Tellicherry pepper mashed potatoes in warm editorial light
+
+A source-backed Grok Imagine Image food case using ingredient provenance, tactile texture, deliberate bowl composition, and warm editorial lighting.
+
+#### Prompt
+
+```text
+Create a photorealistic food-editorial image of rustic mashed potatoes served in a shallow handmade ceramic bowl. The potatoes should look creamy but textured, with visible ridges from a spoon, a small pat of butter melting into the center, and a deliberate scatter of freshly cracked Tellicherry peppercorns. Suggest the ingredient story through subtle supporting details: a linen napkin, a wooden pepper mill, and a few natural potato skins on a warm stone counter. Use soft golden side light, realistic steam, controlled highlights on the butter, shallow depth of field, and a calm premium cookbook composition. Keep the bowl centered with generous breathing room. No brand logos, fake labels, plastic-looking food, extra utensils, or decorative clutter.
+```
+
+<div align="center"><img src="https://pbs.twimg.com/media/HOy3gphWgAA4YQW.jpg" width="100%" alt="Tellicherry pepper mashed potatoes in warm editorial light"></div>
+
+#### Source evidence
+
+- **Creator:** [@AliciaMcnatt](https://x.com/AliciaMcnatt)
+- **Canonical post:** [X / Twitter](https://x.com/AliciaMcnatt/status/2084242503889277038)
+- **Published:** 2026-08-03
+- **Category:** Product Photography
 
 **[Use this prompt on ImagineVid](https://imaginevid.io/grok-image)**
 

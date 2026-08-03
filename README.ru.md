@@ -47,7 +47,7 @@ Grok Imagine Image — модель для генерации и точного 
 
 ## Проверенные примеры сообщества
 
-| Статус коллекции | 12 проверенных примеров |
+| Статус коллекции | 13 проверенных примеров |
 |---|---:|
 | Последняя генерация | 2026-07-19 |
 
@@ -387,6 +387,30 @@ Photorealistic high-resolution photograph of an adult Scandinavian fashion model
 - **Категория:** Portrait & Character Design
 
 **[Использовать промпт в ImagineVid](https://imaginevid.io/grok-image)**
+
+---
+
+
+### 20. Картофельное пюре с телличерийским перцем в тёплом редакционном свете
+
+Документированный фуд-кейс Grok Imagine Image с контролем происхождения ингредиентов, тактильной фактуры, композиции миски и тёплого света.
+
+#### Prompt
+
+```text
+Create a photorealistic food-editorial image of rustic mashed potatoes served in a shallow handmade ceramic bowl. The potatoes should look creamy but textured, with visible ridges from a spoon, a small pat of butter melting into the center, and a deliberate scatter of freshly cracked Tellicherry peppercorns. Suggest the ingredient story through subtle supporting details: a linen napkin, a wooden pepper mill, and a few natural potato skins on a warm stone counter. Use soft golden side light, realistic steam, controlled highlights on the butter, shallow depth of field, and a calm premium cookbook composition. Keep the bowl centered with generous breathing room. No brand logos, fake labels, plastic-looking food, extra utensils, or decorative clutter.
+```
+
+<div align="center"><img src="https://pbs.twimg.com/media/HOy3gphWgAA4YQW.jpg" width="100%" alt="Картофельное пюре с телличерийским перцем в тёплом редакционном свете"></div>
+
+#### Source evidence
+
+- **Creator:** [@AliciaMcnatt](https://x.com/AliciaMcnatt)
+- **Canonical post:** [X / Twitter](https://x.com/AliciaMcnatt/status/2084242503889277038)
+- **Published:** 2026-08-03
+- **Category:** Product Photography
+
+**[Use this prompt on ImagineVid](https://imaginevid.io/grok-image)**
 
 ---
 

@@ -47,7 +47,7 @@ Grok Imagine Image es un modelo para generación y edición precisa de imágenes
 
 ## Casos verificados de la comunidad
 
-| Estado de la colección | 12 casos verificados |
+| Estado de la colección | 13 casos verificados |
 |---|---:|
 | Última generación | 2026-07-19 |
 
@@ -387,6 +387,30 @@ Photorealistic high-resolution photograph of an adult Scandinavian fashion model
 - **Categoría:** Portrait & Character Design
 
 **[Usar este prompt en ImagineVid](https://imaginevid.io/grok-image)**
+
+---
+
+
+### 20. Puré de patata con pimienta de Tellicherry bajo luz editorial cálida
+
+Un caso gastronómico de Grok Imagine Image basado en una fuente, con procedencia de ingredientes, textura táctil, composición del cuenco y luz editorial cálida.
+
+#### Prompt
+
+```text
+Create a photorealistic food-editorial image of rustic mashed potatoes served in a shallow handmade ceramic bowl. The potatoes should look creamy but textured, with visible ridges from a spoon, a small pat of butter melting into the center, and a deliberate scatter of freshly cracked Tellicherry peppercorns. Suggest the ingredient story through subtle supporting details: a linen napkin, a wooden pepper mill, and a few natural potato skins on a warm stone counter. Use soft golden side light, realistic steam, controlled highlights on the butter, shallow depth of field, and a calm premium cookbook composition. Keep the bowl centered with generous breathing room. No brand logos, fake labels, plastic-looking food, extra utensils, or decorative clutter.
+```
+
+<div align="center"><img src="https://pbs.twimg.com/media/HOy3gphWgAA4YQW.jpg" width="100%" alt="Puré de patata con pimienta de Tellicherry bajo luz editorial cálida"></div>
+
+#### Source evidence
+
+- **Creator:** [@AliciaMcnatt](https://x.com/AliciaMcnatt)
+- **Canonical post:** [X / Twitter](https://x.com/AliciaMcnatt/status/2084242503889277038)
+- **Published:** 2026-08-03
+- **Category:** Product Photography
+
+**[Use this prompt on ImagineVid](https://imaginevid.io/grok-image)**
 
 ---
 

@@ -47,7 +47,7 @@ Grok Imagine Image은 멀티모달 이미지 생성과 정밀 편집을 위한 �
 
 ## 검증된 커뮤니티 사례
 
-| 컬렉션 현황 | 12 개의 검증 사례 |
+| 컬렉션 현황 | 13 개의 검증 사례 |
 |---|---:|
 | 마지막 생성 | 2026-07-19 |
 
@@ -387,6 +387,30 @@ Photorealistic high-resolution photograph of an adult Scandinavian fashion model
 - **카테고리:** Portrait & Character Design
 
 **[ImagineVid에서 이 프롬프트 사용](https://imaginevid.io/grok-image)**
+
+---
+
+
+### 20. 따뜻한 에디토리얼 조명의 텔리체리 페퍼 매시드 포테이토
+
+재료의 출처, 질감, 그릇 구도와 따뜻한 에디토리얼 조명을 제어하는 출처 기반 Grok Imagine Image 음식 사례입니다.
+
+#### Prompt
+
+```text
+Create a photorealistic food-editorial image of rustic mashed potatoes served in a shallow handmade ceramic bowl. The potatoes should look creamy but textured, with visible ridges from a spoon, a small pat of butter melting into the center, and a deliberate scatter of freshly cracked Tellicherry peppercorns. Suggest the ingredient story through subtle supporting details: a linen napkin, a wooden pepper mill, and a few natural potato skins on a warm stone counter. Use soft golden side light, realistic steam, controlled highlights on the butter, shallow depth of field, and a calm premium cookbook composition. Keep the bowl centered with generous breathing room. No brand logos, fake labels, plastic-looking food, extra utensils, or decorative clutter.
+```
+
+<div align="center"><img src="https://pbs.twimg.com/media/HOy3gphWgAA4YQW.jpg" width="100%" alt="따뜻한 에디토리얼 조명의 텔리체리 페퍼 매시드 포테이토"></div>
+
+#### Source evidence
+
+- **Creator:** [@AliciaMcnatt](https://x.com/AliciaMcnatt)
+- **Canonical post:** [X / Twitter](https://x.com/AliciaMcnatt/status/2084242503889277038)
+- **Published:** 2026-08-03
+- **Category:** Product Photography
+
+**[Use this prompt on ImagineVid](https://imaginevid.io/grok-image)**
 
 ---
 

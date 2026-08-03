@@ -798,5 +798,47 @@
         }
       ]
     }
+  },
+  {
+    "id": 20,
+    "model": "Grok Imagine Image",
+    "title": "Tellicherry pepper mashed potatoes in warm editorial light",
+    "description": "A source-backed Grok Imagine Image food case using ingredient provenance, tactile texture, deliberate bowl composition, and warm editorial lighting.",
+    "content": "Create a photorealistic food-editorial image of rustic mashed potatoes served in a shallow handmade ceramic bowl. The potatoes should look creamy but textured, with visible ridges from a spoon, a small pat of butter melting into the center, and a deliberate scatter of freshly cracked Tellicherry peppercorns. Suggest the ingredient story through subtle supporting details: a linen napkin, a wooden pepper mill, and a few natural potato skins on a warm stone counter. Use soft golden side light, realistic steam, controlled highlights on the butter, shallow depth of field, and a calm premium cookbook composition. Keep the bowl centered with generous breathing room. No brand logos, fake labels, plastic-looking food, extra utensils, or decorative clutter.",
+    "sourceLink": "https://x.com/AliciaMcnatt/status/2084242503889277038",
+    "sourcePublishedAt": "2026-08-03T11:38:30.000Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/media/HOy3gphWgAA4YQW.jpg"
+    ],
+    "author": {
+      "name": "Alicia McNatt",
+      "link": "https://x.com/AliciaMcnatt"
+    },
+    "language": "en",
+    "featured": false,
+    "sort": 20,
+    "needReferenceImages": false,
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2084242503889277038",
+      "prompt_source": "tweet_text_prompt",
+      "model_evidence": "grok-imagine-image",
+      "collected_at": "2026-08-03",
+      "retweetCount": 0,
+      "replyCount": 0,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "viewCount": 14,
+      "bookmarkCount": 0
+    },
+    "imageCategories": {
+      "workflows": [
+        {
+          "id": 102,
+          "title": "Product Photography",
+          "slug": "product-photography"
+        }
+      ]
+    }
   }
 ]

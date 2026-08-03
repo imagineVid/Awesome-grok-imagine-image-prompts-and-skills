@@ -47,7 +47,7 @@ Grok Imagine Image est un modèle de génération et retouche précise d’image
 
 ## Cas communautaires vérifiés
 
-| État de la collection | 12 cas vérifiés |
+| État de la collection | 13 cas vérifiés |
 |---|---:|
 | Dernière génération | 2026-07-19 |
 
@@ -387,6 +387,30 @@ Photorealistic high-resolution photograph of an adult Scandinavian fashion model
 - **Catégorie:** Portrait & Character Design
 
 **[Utiliser ce prompt sur ImagineVid](https://imaginevid.io/grok-image)**
+
+---
+
+
+### 20. Purée de pommes de terre au poivre de Tellicherry sous une lumière éditoriale chaude
+
+Un cas culinaire Grok Imagine Image documenté par une source, avec origine des ingrédients, texture tactile, composition du bol et lumière éditoriale chaude.
+
+#### Prompt
+
+```text
+Create a photorealistic food-editorial image of rustic mashed potatoes served in a shallow handmade ceramic bowl. The potatoes should look creamy but textured, with visible ridges from a spoon, a small pat of butter melting into the center, and a deliberate scatter of freshly cracked Tellicherry peppercorns. Suggest the ingredient story through subtle supporting details: a linen napkin, a wooden pepper mill, and a few natural potato skins on a warm stone counter. Use soft golden side light, realistic steam, controlled highlights on the butter, shallow depth of field, and a calm premium cookbook composition. Keep the bowl centered with generous breathing room. No brand logos, fake labels, plastic-looking food, extra utensils, or decorative clutter.
+```
+
+<div align="center"><img src="https://pbs.twimg.com/media/HOy3gphWgAA4YQW.jpg" width="100%" alt="Purée de pommes de terre au poivre de Tellicherry sous une lumière éditoriale chaude"></div>
+
+#### Source evidence
+
+- **Creator:** [@AliciaMcnatt](https://x.com/AliciaMcnatt)
+- **Canonical post:** [X / Twitter](https://x.com/AliciaMcnatt/status/2084242503889277038)
+- **Published:** 2026-08-03
+- **Category:** Product Photography
+
+**[Use this prompt on ImagineVid](https://imaginevid.io/grok-image)**
 
 ---
 
